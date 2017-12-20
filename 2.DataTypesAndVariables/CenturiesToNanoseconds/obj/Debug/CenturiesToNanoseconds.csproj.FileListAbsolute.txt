@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CircleAreaWith12Digits\bin\Debug\CircleAreaWith12Digits.exe.config
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CircleAreaWith12Digits\bin\Debug\CircleAreaWith12Digits.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CircleAreaWith12Digits\bin\Debug\CircleAreaWith12Digits.pdb
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CircleAreaWith12Digits\obj\Debug\CircleAreaWith12Digits.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CircleAreaWith12Digits\obj\Debug\CircleAreaWith12Digits.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\CircleAreaWith12Digits\obj\Debug\CircleAreaWith12Digits.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\PrintPartOfTheAsciiTable\bin\Debug\PrintPartOfTheAsciiTable.exe.config
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\PrintPartOfTheAsciiTable\bin\Debug\PrintPartOfTheAsciiTable.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\PrintPartOfTheAsciiTable\bin\Debug\PrintPartOfTheAsciiTable.pdb
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\PrintPartOfTheAsciiTable\obj\Debug\PrintPartOfTheAsciiTable.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\PrintPartOfTheAsciiTable\obj\Debug\PrintPartOfTheAsciiTable.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\PrintPartOfTheAsciiTable\obj\Debug\PrintPartOfTheAsciiTable.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\PrintPartOfTheAsciiTable\obj\Debug\PrintPartOfTheAsciiTable.pdb

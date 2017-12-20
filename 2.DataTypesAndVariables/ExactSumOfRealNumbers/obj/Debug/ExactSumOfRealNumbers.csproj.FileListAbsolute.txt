@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe.config
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.pdb
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.pdb

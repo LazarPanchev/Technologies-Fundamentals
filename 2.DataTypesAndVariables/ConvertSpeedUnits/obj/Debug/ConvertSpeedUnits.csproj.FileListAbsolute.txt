@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

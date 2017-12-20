@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ComparingFloats\obj\Debug\ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ComparingFloats\obj\Debug\ComparingFloats.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\ComparingFloats\obj\Debug\ComparingFloats.pdb

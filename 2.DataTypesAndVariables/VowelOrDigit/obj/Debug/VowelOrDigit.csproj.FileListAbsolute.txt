@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\VowelOrDigit\obj\Debug\VowelOrDigit.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

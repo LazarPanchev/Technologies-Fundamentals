@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\RectangleProperties\bin\Debug\RectangleProperties.exe.config
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\RectangleProperties\bin\Debug\RectangleProperties.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\RectangleProperties\bin\Debug\RectangleProperties.pdb
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\RectangleProperties\obj\Debug\RectangleProperties.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\RectangleProperties\obj\Debug\RectangleProperties.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\RectangleProperties\obj\Debug\RectangleProperties.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\RectangleProperties\obj\Debug\RectangleProperties.pdb

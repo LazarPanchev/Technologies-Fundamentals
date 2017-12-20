@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe.config
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\FastPrimeChecker\bin\Debug\FastPrimeChecker.pdb
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\FastPrimeChecker\obj\Debug\FastPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\FastPrimeChecker\obj\Debug\FastPrimeChecker.exe
+C:\Users\pc\source\repos\Tech Module New Lecture with new tasks\FastPrimeChecker\obj\Debug\FastPrimeChecker.pdb
