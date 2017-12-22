@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\BeerKegs.exe.config
+C:\Users\pc\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\BeerKegs.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\BeerKegs.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\BeerKegs.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\BeerKegs.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\BeerKegs.pdb

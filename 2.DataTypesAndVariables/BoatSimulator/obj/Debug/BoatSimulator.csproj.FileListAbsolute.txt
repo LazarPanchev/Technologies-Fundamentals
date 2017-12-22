@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\DataTypesAndVariables\BoatSimulator\bin\Debug\BoatSimulator.exe.config
+C:\Users\pc\source\repos\DataTypesAndVariables\BoatSimulator\bin\Debug\BoatSimulator.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\BoatSimulator\bin\Debug\BoatSimulator.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\BoatSimulator\obj\Debug\BoatSimulator.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\BoatSimulator\obj\Debug\BoatSimulator.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\BoatSimulator\obj\Debug\BoatSimulator.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\BoatSimulator\obj\Debug\BoatSimulator.pdb

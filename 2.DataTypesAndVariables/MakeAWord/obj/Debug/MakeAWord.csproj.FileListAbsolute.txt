@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\DataTypesAndVariables\MakeAWord\bin\Debug\MakeAWord.exe.config
+C:\Users\pc\source\repos\DataTypesAndVariables\MakeAWord\bin\Debug\MakeAWord.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\MakeAWord\bin\Debug\MakeAWord.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\MakeAWord\obj\Debug\MakeAWord.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\MakeAWord\obj\Debug\MakeAWord.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\MakeAWord\obj\Debug\MakeAWord.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\MakeAWord\obj\Debug\MakeAWord.pdb

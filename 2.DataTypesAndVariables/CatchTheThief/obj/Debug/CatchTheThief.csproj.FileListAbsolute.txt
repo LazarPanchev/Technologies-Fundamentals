@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\DataTypesAndVariables\CatchTheThief\bin\Debug\CatchTheThief.exe.config
+C:\Users\pc\source\repos\DataTypesAndVariables\CatchTheThief\bin\Debug\CatchTheThief.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\CatchTheThief\bin\Debug\CatchTheThief.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\CatchTheThief\obj\Debug\CatchTheThief.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\CatchTheThief\obj\Debug\CatchTheThief.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\CatchTheThief\obj\Debug\CatchTheThief.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\CatchTheThief\obj\Debug\CatchTheThief.csprojResolveAssemblyReference.cache

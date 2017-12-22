@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\DataTypesAndVariables\BalancedBrackets\bin\Debug\BalancedBrackets.exe.config
+C:\Users\pc\source\repos\DataTypesAndVariables\BalancedBrackets\bin\Debug\BalancedBrackets.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\BalancedBrackets\bin\Debug\BalancedBrackets.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\BalancedBrackets.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\BalancedBrackets.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\BalancedBrackets.pdb

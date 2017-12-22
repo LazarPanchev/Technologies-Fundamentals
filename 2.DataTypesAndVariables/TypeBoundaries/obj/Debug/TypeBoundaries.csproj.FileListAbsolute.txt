@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\DataTypesAndVariables\TypeBoundaries\bin\Debug\TypeBoundaries.exe.config
+C:\Users\pc\source\repos\DataTypesAndVariables\TypeBoundaries\bin\Debug\TypeBoundaries.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\TypeBoundaries\bin\Debug\TypeBoundaries.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\TypeBoundaries\obj\Debug\TypeBoundaries.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\TypeBoundaries\obj\Debug\TypeBoundaries.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\TypeBoundaries\obj\Debug\TypeBoundaries.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\TypeBoundaries\obj\Debug\TypeBoundaries.pdb

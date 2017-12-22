@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\DataTypesAndVariables\NumberChecker\bin\Debug\NumberChecker.exe.config
+C:\Users\pc\source\repos\DataTypesAndVariables\NumberChecker\bin\Debug\NumberChecker.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\NumberChecker\bin\Debug\NumberChecker.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\NumberChecker\obj\Debug\NumberChecker.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\NumberChecker\obj\Debug\NumberChecker.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\NumberChecker\obj\Debug\NumberChecker.pdb

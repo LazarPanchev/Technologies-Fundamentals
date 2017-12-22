@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\DataTypesAndVariables\DecryptingMassage\bin\Debug\DecryptingMassage.exe.config
+C:\Users\pc\source\repos\DataTypesAndVariables\DecryptingMassage\bin\Debug\DecryptingMassage.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\DecryptingMassage\bin\Debug\DecryptingMassage.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\DecryptingMassage\obj\Debug\DecryptingMassage.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\DecryptingMassage\obj\Debug\DecryptingMassage.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\DecryptingMassage\obj\Debug\DecryptingMassage.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\DecryptingMassage\obj\Debug\DecryptingMassage.pdb

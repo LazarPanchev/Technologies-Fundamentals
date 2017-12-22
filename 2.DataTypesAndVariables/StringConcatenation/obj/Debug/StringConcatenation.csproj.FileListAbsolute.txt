@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\DataTypesAndVariables\StringConcatenation\bin\Debug\StringConcatenation.exe.config
+C:\Users\pc\source\repos\DataTypesAndVariables\StringConcatenation\bin\Debug\StringConcatenation.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\StringConcatenation\bin\Debug\StringConcatenation.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\StringConcatenation\obj\Debug\StringConcatenation.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\StringConcatenation\obj\Debug\StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\StringConcatenation\obj\Debug\StringConcatenation.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\StringConcatenation\obj\Debug\StringConcatenation.pdb

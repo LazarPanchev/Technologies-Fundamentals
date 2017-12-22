@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\DataTypesAndVariables\TouristInformation\bin\Debug\TouristInformation.exe.config
+C:\Users\pc\source\repos\DataTypesAndVariables\TouristInformation\bin\Debug\TouristInformation.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\TouristInformation\bin\Debug\TouristInformation.pdb
+C:\Users\pc\source\repos\DataTypesAndVariables\TouristInformation\obj\Debug\TouristInformation.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\TouristInformation\obj\Debug\TouristInformation.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataTypesAndVariables\TouristInformation\obj\Debug\TouristInformation.exe
+C:\Users\pc\source\repos\DataTypesAndVariables\TouristInformation\obj\Debug\TouristInformation.pdb
