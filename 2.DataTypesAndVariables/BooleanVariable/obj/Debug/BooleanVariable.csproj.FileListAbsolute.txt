@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\BooleanVariable\obj\Debug\BooleanVariable.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\BooleanVariable\obj\Debug\BooleanVariable.pdb

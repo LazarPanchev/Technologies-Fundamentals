@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.csprojResolveAssemblyReference.cache

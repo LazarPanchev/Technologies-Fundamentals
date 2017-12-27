@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TheaThePhotographer\bin\Debug\TheaThePhotographer.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TheaThePhotographer\obj\Debug\TheaThePhotographer.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TheaThePhotographer\obj\Debug\TheaThePhotographer.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TheaThePhotographer\obj\Debug\TheaThePhotographer.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TheaThePhotographer\obj\Debug\TheaThePhotographer.pdb

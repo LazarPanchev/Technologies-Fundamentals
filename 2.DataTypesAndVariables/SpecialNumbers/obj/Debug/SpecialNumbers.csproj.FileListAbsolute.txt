@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\SpecialNumbers\obj\Debug\SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\SpecialNumbers\obj\Debug\SpecialNumbers.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache

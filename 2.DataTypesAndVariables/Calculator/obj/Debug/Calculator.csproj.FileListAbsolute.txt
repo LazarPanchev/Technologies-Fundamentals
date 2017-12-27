@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Calculator\bin\Debug\Calculator.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Calculator\obj\Debug\Calculator.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Calculator\obj\Debug\Calculator.pdb

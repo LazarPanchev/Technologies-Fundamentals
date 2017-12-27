@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.pdb

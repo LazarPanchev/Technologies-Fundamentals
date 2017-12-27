@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb

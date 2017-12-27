@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\StringAndObject\bin\Debug\StringAndObject.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\StringAndObject\bin\Debug\StringAndObject.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\StringAndObject\bin\Debug\StringAndObject.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\StringAndObject\obj\Debug\StringAndObject.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\StringAndObject\obj\Debug\StringAndObject.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\StringAndObject\obj\Debug\StringAndObject.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\StringAndObject\obj\Debug\StringAndObject.pdb

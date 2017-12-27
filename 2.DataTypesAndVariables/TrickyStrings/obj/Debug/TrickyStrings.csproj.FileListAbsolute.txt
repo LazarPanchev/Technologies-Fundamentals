@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TrickyStrings\bin\Debug\TrickyStrings.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TrickyStrings\bin\Debug\TrickyStrings.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TrickyStrings\bin\Debug\TrickyStrings.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TrickyStrings\obj\Debug\TrickyStrings.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TrickyStrings\obj\Debug\TrickyStrings.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TrickyStrings\obj\Debug\TrickyStrings.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TrickyStrings\obj\Debug\TrickyStrings.pdb

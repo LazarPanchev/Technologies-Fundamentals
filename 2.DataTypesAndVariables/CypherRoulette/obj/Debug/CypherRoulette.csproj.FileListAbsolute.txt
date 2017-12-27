@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\CypherRoulette\bin\Debug\CypherRoulette.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\CypherRoulette\bin\Debug\CypherRoulette.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\CypherRoulette\bin\Debug\CypherRoulette.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\CypherRoulette\obj\Debug\CypherRoulette.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\CypherRoulette\obj\Debug\CypherRoulette.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\CypherRoulette\obj\Debug\CypherRoulette.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\CypherRoulette\obj\Debug\CypherRoulette.pdb

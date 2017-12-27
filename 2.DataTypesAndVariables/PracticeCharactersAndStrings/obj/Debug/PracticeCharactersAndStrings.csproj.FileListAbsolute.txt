@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.pdb

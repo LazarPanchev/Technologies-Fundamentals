@@ -1,6 +1,0 @@
-C:\Users\pc\source\repos\DataTypesAndVariables\proba\bin\Debug\proba.exe.config
-C:\Users\pc\source\repos\DataTypesAndVariables\proba\bin\Debug\proba.exe
-C:\Users\pc\source\repos\DataTypesAndVariables\proba\bin\Debug\proba.pdb
-C:\Users\pc\source\repos\DataTypesAndVariables\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
-C:\Users\pc\source\repos\DataTypesAndVariables\proba\obj\Debug\proba.exe
-C:\Users\pc\source\repos\DataTypesAndVariables\proba\obj\Debug\proba.pdb

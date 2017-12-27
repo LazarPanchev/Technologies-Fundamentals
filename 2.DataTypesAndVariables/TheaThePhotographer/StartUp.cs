@@ -1,4 +1,5 @@
 ﻿
+
 namespace TheaThePhotographer
 {
     using System;
@@ -6,20 +7,48 @@ namespace TheaThePhotographer
     {
         public static void Main()
         {
-            long totalPics = long.Parse(Console.ReadLine());
-            long filterTimeInSec = long.Parse(Console.ReadLine());
-            long filterFactorPercentage = long.Parse(Console.ReadLine());
-            long uploadTime = long.Parse(Console.ReadLine());
+            double aaa = NewMethod();
+            int monkey = int.Parse(Console.ReadLine());
+            int filterFactorPercentage = int.Parse(Console.ReadLine());
+            int uploadTime = int.Parse(Console.ReadLine());
 
-           double totalFilteringTime = totalPics * filterTimeInSec;
-           double usefullPics = Math.Ceiling(totalPics * (filterFactorPercentage * 0.01));
-           double uploadFilteredPics = usefullPics * uploadTime;
-           double totalTime = uploadFilteredPics + totalFilteringTime;
+            int totalFilteringTime = aaa * monkey;
+            int  = Math.Ceiling(aaa * (filterFactorPercentage * 0.01));
+            int uploadFilteredPics = (int)usefullPics * uploadTime;
+            int gogogogog = uploadFilteredPics + totalFilteringTime;
 
-            TimeSpan dateFormat = TimeSpan.FromSeconds(totalTime);
-            string allTime = dateFormat.ToString(@"d\:hh\:mm\:ss");
-            Console.WriteLine(allTime);
-            
+            int days = 0;
+            int hours = 0;
+            int minutes = 0;
+            while (gogogogog > 59)
+            {
+                if (gogogogog >= 86400)
+                {
+                    days++;
+                    gogogogog -= 86400;
+
+                }
+                else if (gogogogog >= 3600)
+                {
+                    hours++;
+                    gogogogog -= 3600;
+
+                }
+                else if (gogogogog >= 60)
+                {
+                    minutes++;
+                    gogogogog -= 60;
+                }
+
+            }
+            int seconds = gogogogog;
+
+            Console.WriteLine("{0}:{1:D2}:{2:D2}:{3:D2}", days, hours, minutes, seconds);
+        }
+
+        private static double NewMethod()
+        {
+            return int.Parse(Console.ReadLine());
         }
     }
 }

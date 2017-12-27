@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Time since birthday\bin\Debug\Time since birthday.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Time since birthday\bin\Debug\Time since birthday.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Time since birthday\bin\Debug\Time since birthday.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Time since birthday\obj\Debug\Time since birthday.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Time since birthday\obj\Debug\Time since birthday.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Time since birthday\obj\Debug\Time since birthday.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Time since birthday\obj\Debug\Time since birthday.pdb

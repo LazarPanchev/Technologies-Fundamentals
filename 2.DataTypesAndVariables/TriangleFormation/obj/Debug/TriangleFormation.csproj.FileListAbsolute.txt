@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriangleFormation\bin\Debug\TriangleFormation.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriangleFormation\bin\Debug\TriangleFormation.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriangleFormation\bin\Debug\TriangleFormation.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriangleFormation\obj\Debug\TriangleFormation.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriangleFormation\obj\Debug\TriangleFormation.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriangleFormation\obj\Debug\TriangleFormation.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TriangleFormation\obj\Debug\TriangleFormation.pdb

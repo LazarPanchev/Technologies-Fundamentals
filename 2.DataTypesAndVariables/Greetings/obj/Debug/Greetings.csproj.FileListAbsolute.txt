@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Greetings\bin\Debug\Greetings.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Greetings\bin\Debug\Greetings.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Greetings\obj\Debug\Greetings.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Greetings\obj\Debug\Greetings.pdb

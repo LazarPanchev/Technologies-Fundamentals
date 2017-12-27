@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DataOverflow\bin\Debug\DataOverflow.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DataOverflow\bin\Debug\DataOverflow.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DataOverflow\bin\Debug\DataOverflow.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DataOverflow\obj\Debug\DataOverflow.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DataOverflow\obj\Debug\DataOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DataOverflow\obj\Debug\DataOverflow.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DataOverflow\obj\Debug\DataOverflow.pdb

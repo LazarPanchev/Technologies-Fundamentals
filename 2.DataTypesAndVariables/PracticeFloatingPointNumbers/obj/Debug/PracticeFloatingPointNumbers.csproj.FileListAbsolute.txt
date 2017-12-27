@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb

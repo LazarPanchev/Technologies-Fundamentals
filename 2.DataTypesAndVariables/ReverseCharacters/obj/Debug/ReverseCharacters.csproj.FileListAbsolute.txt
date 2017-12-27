@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\ReverseCharacters\obj\Debug\ReverseCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

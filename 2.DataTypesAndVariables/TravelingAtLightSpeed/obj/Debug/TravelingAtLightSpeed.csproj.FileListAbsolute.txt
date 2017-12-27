@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.csprojResolveAssemblyReference.cache

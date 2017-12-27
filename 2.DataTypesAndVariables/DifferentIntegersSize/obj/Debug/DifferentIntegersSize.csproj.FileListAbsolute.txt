@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb

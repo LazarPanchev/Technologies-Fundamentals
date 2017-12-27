@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DigitsWithWords\bin\Debug\DigitsWithWords.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DigitsWithWords\bin\Debug\DigitsWithWords.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DigitsWithWords\bin\Debug\DigitsWithWords.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DigitsWithWords\obj\Debug\DigitsWithWords.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DigitsWithWords\obj\Debug\DigitsWithWords.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DigitsWithWords\obj\Debug\DigitsWithWords.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\DigitsWithWords\obj\Debug\DigitsWithWords.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Elevator\bin\Debug\Elevator.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Elevator\bin\Debug\Elevator.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Elevator\obj\Debug\Elevator.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\Elevator\obj\Debug\Elevator.pdb

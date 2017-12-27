@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\AsciiString\bin\Debug\AsciiString.exe.config
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\AsciiString\bin\Debug\AsciiString.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\AsciiString\bin\Debug\AsciiString.pdb
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\AsciiString\obj\Debug\AsciiString.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\AsciiString\obj\Debug\AsciiString.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\AsciiString\obj\Debug\AsciiString.exe
+C:\Users\Lazar\source\repos\Data Types Numeral Types and Type Conversion\AsciiString\obj\Debug\AsciiString.pdb
