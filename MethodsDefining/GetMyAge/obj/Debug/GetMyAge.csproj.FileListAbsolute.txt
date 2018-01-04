@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\MethodsDefining\GetMyAge\bin\Debug\GetMyAge.exe.config
+C:\Users\pc\source\repos\MethodsDefining\GetMyAge\bin\Debug\GetMyAge.exe
+C:\Users\pc\source\repos\MethodsDefining\GetMyAge\bin\Debug\GetMyAge.pdb
+C:\Users\pc\source\repos\MethodsDefining\GetMyAge\obj\Debug\GetMyAge.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MethodsDefining\GetMyAge\obj\Debug\GetMyAge.exe
+C:\Users\pc\source\repos\MethodsDefining\GetMyAge\obj\Debug\GetMyAge.pdb

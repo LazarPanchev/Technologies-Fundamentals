@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\MethodsDefining\EnglishnameOfTheLastDigit\bin\Debug\EnglishnameOfTheLastDigit.exe.config
+C:\Users\pc\source\repos\MethodsDefining\EnglishnameOfTheLastDigit\bin\Debug\EnglishnameOfTheLastDigit.exe
+C:\Users\pc\source\repos\MethodsDefining\EnglishnameOfTheLastDigit\bin\Debug\EnglishnameOfTheLastDigit.pdb
+C:\Users\pc\source\repos\MethodsDefining\EnglishnameOfTheLastDigit\obj\Debug\EnglishnameOfTheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MethodsDefining\EnglishnameOfTheLastDigit\obj\Debug\EnglishnameOfTheLastDigit.exe
+C:\Users\pc\source\repos\MethodsDefining\EnglishnameOfTheLastDigit\obj\Debug\EnglishnameOfTheLastDigit.pdb

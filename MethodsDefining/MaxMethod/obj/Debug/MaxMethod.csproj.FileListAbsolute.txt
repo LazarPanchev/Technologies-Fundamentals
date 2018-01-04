@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\MethodsDefining\MaxMethod\obj\Debug\MaxMethod.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MethodsDefining\MaxMethod\bin\Debug\MaxMethod.exe.config
+C:\Users\pc\source\repos\MethodsDefining\MaxMethod\bin\Debug\MaxMethod.exe
+C:\Users\pc\source\repos\MethodsDefining\MaxMethod\bin\Debug\MaxMethod.pdb
+C:\Users\pc\source\repos\MethodsDefining\MaxMethod\obj\Debug\MaxMethod.exe
+C:\Users\pc\source\repos\MethodsDefining\MaxMethod\obj\Debug\MaxMethod.pdb

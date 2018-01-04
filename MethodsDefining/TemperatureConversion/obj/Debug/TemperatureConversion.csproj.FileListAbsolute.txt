@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\MethodsDefining\TemperatureConversion\bin\Debug\TemperatureConversion.exe.config
+C:\Users\pc\source\repos\MethodsDefining\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+C:\Users\pc\source\repos\MethodsDefining\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+C:\Users\pc\source\repos\MethodsDefining\TemperatureConversion\obj\Debug\TemperatureConversion.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\MethodsDefining\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MethodsDefining\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+C:\Users\pc\source\repos\MethodsDefining\TemperatureConversion\obj\Debug\TemperatureConversion.pdb

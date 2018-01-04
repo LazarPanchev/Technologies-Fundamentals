@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\MethodsDefining\GreaterOfTwoNumbers\bin\Debug\GreaterOfTwoNumbers.exe.config
+C:\Users\pc\source\repos\MethodsDefining\GreaterOfTwoNumbers\bin\Debug\GreaterOfTwoNumbers.exe
+C:\Users\pc\source\repos\MethodsDefining\GreaterOfTwoNumbers\bin\Debug\GreaterOfTwoNumbers.pdb
+C:\Users\pc\source\repos\MethodsDefining\GreaterOfTwoNumbers\obj\Debug\GreaterOfTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\MethodsDefining\GreaterOfTwoNumbers\obj\Debug\GreaterOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MethodsDefining\GreaterOfTwoNumbers\obj\Debug\GreaterOfTwoNumbers.exe
+C:\Users\pc\source\repos\MethodsDefining\GreaterOfTwoNumbers\obj\Debug\GreaterOfTwoNumbers.pdb

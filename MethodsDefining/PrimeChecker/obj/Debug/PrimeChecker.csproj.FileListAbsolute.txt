@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\MethodsDefining\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+C:\Users\pc\source\repos\MethodsDefining\PrimeChecker\bin\Debug\PrimeChecker.exe
+C:\Users\pc\source\repos\MethodsDefining\PrimeChecker\bin\Debug\PrimeChecker.pdb
+C:\Users\pc\source\repos\MethodsDefining\PrimeChecker\obj\Debug\PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MethodsDefining\PrimeChecker\obj\Debug\PrimeChecker.exe
+C:\Users\pc\source\repos\MethodsDefining\PrimeChecker\obj\Debug\PrimeChecker.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\MethodsDefining\MultiplyEvenbyOdds\obj\Debug\MultiplyEvenbyOdds.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\MethodsDefining\MultiplyEvenbyOdds\obj\Debug\MultiplyEvenbyOdds.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MethodsDefining\MultiplyEvenbyOdds\bin\Debug\MultiplyEvenbyOdds.exe.config
+C:\Users\pc\source\repos\MethodsDefining\MultiplyEvenbyOdds\bin\Debug\MultiplyEvenbyOdds.exe
+C:\Users\pc\source\repos\MethodsDefining\MultiplyEvenbyOdds\bin\Debug\MultiplyEvenbyOdds.pdb
+C:\Users\pc\source\repos\MethodsDefining\MultiplyEvenbyOdds\obj\Debug\MultiplyEvenbyOdds.exe
+C:\Users\pc\source\repos\MethodsDefining\MultiplyEvenbyOdds\obj\Debug\MultiplyEvenbyOdds.pdb

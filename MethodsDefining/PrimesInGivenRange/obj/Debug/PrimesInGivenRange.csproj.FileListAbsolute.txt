@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\MethodsDefining\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+C:\Users\pc\source\repos\MethodsDefining\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+C:\Users\pc\source\repos\MethodsDefining\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+C:\Users\pc\source\repos\MethodsDefining\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\MethodsDefining\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MethodsDefining\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+C:\Users\pc\source\repos\MethodsDefining\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb

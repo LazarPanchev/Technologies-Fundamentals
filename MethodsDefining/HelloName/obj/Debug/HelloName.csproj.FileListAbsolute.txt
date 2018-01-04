@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\MethodsDefining\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\pc\source\repos\MethodsDefining\HelloName\bin\Debug\HelloName.exe
+C:\Users\pc\source\repos\MethodsDefining\HelloName\bin\Debug\HelloName.pdb
+C:\Users\pc\source\repos\MethodsDefining\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\MethodsDefining\HelloName\obj\Debug\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MethodsDefining\HelloName\obj\Debug\HelloName.exe
+C:\Users\pc\source\repos\MethodsDefining\HelloName\obj\Debug\HelloName.pdb

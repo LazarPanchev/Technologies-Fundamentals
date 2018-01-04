@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\MethodsDefining\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+C:\Users\pc\source\repos\MethodsDefining\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+C:\Users\pc\source\repos\MethodsDefining\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+C:\Users\pc\source\repos\MethodsDefining\FibonacciNumbers\obj\Debug\FibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MethodsDefining\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\Users\pc\source\repos\MethodsDefining\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb
