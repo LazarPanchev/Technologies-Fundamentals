@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\MasterNumbers\bin\Debug\MasterNumbers.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\MasterNumbers\bin\Debug\MasterNumbers.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\MasterNumbers\obj\Debug\MasterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\MasterNumbers\obj\Debug\MasterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\MasterNumbers\obj\Debug\MasterNumbers.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\MasterNumbers\obj\Debug\MasterNumbers.pdb

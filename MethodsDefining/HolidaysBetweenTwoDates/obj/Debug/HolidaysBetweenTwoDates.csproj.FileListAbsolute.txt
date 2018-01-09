@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.pdb

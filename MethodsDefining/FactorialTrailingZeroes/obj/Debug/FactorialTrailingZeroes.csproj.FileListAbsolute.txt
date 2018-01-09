@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.pdb

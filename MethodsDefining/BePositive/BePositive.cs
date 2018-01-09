@@ -30,7 +30,7 @@
                 {
                     int currentNum = numbers[j];
 
-                    if (currentNum >=0)
+                    if (currentNum >= 0)
                     {
                         if (found)
                         {
@@ -45,10 +45,13 @@
                     else
                     {
                         int prevNum = numbers[j];
-                        currentNum = prevNum+ numbers[j + 1];
-                        j++;
+                        if(j!=numbers.Count-1)
+                        {
+                            currentNum = prevNum + numbers[j + 1];
+                            j++;
+                        }
 
-                        if (currentNum >=0)
+                        if (currentNum >= 0)
                         {
                             if (found)
                             {

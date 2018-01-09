@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SignOfIntegerN umber\bin\Debug\SignOfIntegerN umber.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SignOfIntegerN umber\bin\Debug\SignOfIntegerN umber.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SignOfIntegerN umber\bin\Debug\SignOfIntegerN umber.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SignOfIntegerN umber\obj\Debug\SignOfIntegerNumber.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SignOfIntegerN umber\obj\Debug\SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SignOfIntegerN umber\obj\Debug\SignOfIntegerN umber.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SignOfIntegerN umber\obj\Debug\SignOfIntegerN umber.pdb

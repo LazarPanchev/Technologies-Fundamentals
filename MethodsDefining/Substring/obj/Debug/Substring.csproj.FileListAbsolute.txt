@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Substring\bin\Debug\Substring.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Substring\bin\Debug\Substring.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Substring\bin\Debug\Substring.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Substring\obj\Debug\Substring.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Substring\obj\Debug\Substring.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Substring\obj\Debug\Substring.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache

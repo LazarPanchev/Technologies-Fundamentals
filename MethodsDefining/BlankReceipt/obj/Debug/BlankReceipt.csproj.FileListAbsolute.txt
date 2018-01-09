@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\BlankReceipt\bin\Debug\BlankReceipt.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\BlankReceipt\bin\Debug\BlankReceipt.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\BlankReceipt\bin\Debug\BlankReceipt.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\BlankReceipt\obj\Debug\BlankReceipt.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\BlankReceipt\obj\Debug\BlankReceipt.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\BlankReceipt\obj\Debug\BlankReceipt.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\BlankReceipt\obj\Debug\BlankReceipt.pdb

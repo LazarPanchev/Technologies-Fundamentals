@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PrintingTriangle\bin\Debug\PrintingTriangle.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PrintingTriangle\bin\Debug\PrintingTriangle.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PrintingTriangle\obj\Debug\PrintingTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PrintingTriangle\obj\Debug\PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PrintingTriangle\obj\Debug\PrintingTriangle.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PrintingTriangle\obj\Debug\PrintingTriangle.pdb
