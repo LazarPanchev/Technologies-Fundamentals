@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.exe.config
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.pdb
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\OddNumbersAtOddPositions\obj\Debug\OddNumbersAtOddPositions.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\OddNumbersAtOddPositions\obj\Debug\OddNumbersAtOddPositions.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\OddNumbersAtOddPositions\obj\Debug\OddNumbersAtOddPositions.pdb

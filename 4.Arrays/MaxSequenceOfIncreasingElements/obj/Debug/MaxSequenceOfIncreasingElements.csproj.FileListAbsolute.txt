@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MaxSequenceOfIncreasingElements\bin\Debug\MaxSequenceOfIncreasingElements.exe.config
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MaxSequenceOfIncreasingElements\bin\Debug\MaxSequenceOfIncreasingElements.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MaxSequenceOfIncreasingElements\bin\Debug\MaxSequenceOfIncreasingElements.pdb
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MaxSequenceOfIncreasingElements\obj\Debug\MaxSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MaxSequenceOfIncreasingElements\obj\Debug\MaxSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MaxSequenceOfIncreasingElements\obj\Debug\MaxSequenceOfIncreasingElements.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MaxSequenceOfIncreasingElements\obj\Debug\MaxSequenceOfIncreasingElements.pdb

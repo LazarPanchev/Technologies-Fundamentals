@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\RotateArrayOfString\bin\Debug\RotateArrayOfString.exe.config
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\RotateArrayOfString\bin\Debug\RotateArrayOfString.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\RotateArrayOfString\bin\Debug\RotateArrayOfString.pdb
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\RotateArrayOfString\obj\Debug\RotateArrayOfString.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\RotateArrayOfString\obj\Debug\RotateArrayOfString.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\RotateArrayOfString\obj\Debug\RotateArrayOfString.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\RotateArrayOfString\obj\Debug\RotateArrayOfString.pdb
