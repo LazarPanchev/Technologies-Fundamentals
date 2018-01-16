@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Arrays\ArrayElementsEquelToTheirIndex\bin\Debug\ArrayElementsEquelToTheirIndex.exe.config
+C:\Users\pc\source\repos\Arrays\ArrayElementsEquelToTheirIndex\bin\Debug\ArrayElementsEquelToTheirIndex.exe
+C:\Users\pc\source\repos\Arrays\ArrayElementsEquelToTheirIndex\bin\Debug\ArrayElementsEquelToTheirIndex.pdb
+C:\Users\pc\source\repos\Arrays\ArrayElementsEquelToTheirIndex\obj\Debug\ArrayElementsEquelToTheirIndex.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\ArrayElementsEquelToTheirIndex\obj\Debug\ArrayElementsEquelToTheirIndex.exe
+C:\Users\pc\source\repos\Arrays\ArrayElementsEquelToTheirIndex\obj\Debug\ArrayElementsEquelToTheirIndex.pdb

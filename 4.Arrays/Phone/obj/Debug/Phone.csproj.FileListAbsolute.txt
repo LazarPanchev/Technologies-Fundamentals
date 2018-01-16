@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\Phone\bin\Debug\Phone.exe.config
+C:\Users\pc\source\repos\Arrays\Phone\bin\Debug\Phone.exe
+C:\Users\pc\source\repos\Arrays\Phone\bin\Debug\Phone.pdb
+C:\Users\pc\source\repos\Arrays\Phone\obj\Debug\Phone.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\Phone\obj\Debug\Phone.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\Phone\obj\Debug\Phone.exe
+C:\Users\pc\source\repos\Arrays\Phone\obj\Debug\Phone.pdb

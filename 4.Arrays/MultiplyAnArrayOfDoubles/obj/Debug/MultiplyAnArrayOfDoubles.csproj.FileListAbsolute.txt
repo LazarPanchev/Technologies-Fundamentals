@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\MultiplyAnArrayOfDoubles\bin\Debug\MultiplyAnArrayOfDoubles.exe.config
+C:\Users\pc\source\repos\Arrays\MultiplyAnArrayOfDoubles\bin\Debug\MultiplyAnArrayOfDoubles.exe
+C:\Users\pc\source\repos\Arrays\MultiplyAnArrayOfDoubles\bin\Debug\MultiplyAnArrayOfDoubles.pdb
+C:\Users\pc\source\repos\Arrays\MultiplyAnArrayOfDoubles\obj\Debug\MultiplyAnArrayOfDoubles.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\MultiplyAnArrayOfDoubles\obj\Debug\MultiplyAnArrayOfDoubles.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\MultiplyAnArrayOfDoubles\obj\Debug\MultiplyAnArrayOfDoubles.exe
+C:\Users\pc\source\repos\Arrays\MultiplyAnArrayOfDoubles\obj\Debug\MultiplyAnArrayOfDoubles.pdb

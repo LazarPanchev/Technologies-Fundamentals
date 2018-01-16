@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+C:\Users\pc\source\repos\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+C:\Users\pc\source\repos\Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+C:\Users\pc\source\repos\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+C:\Users\pc\source\repos\Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\CharRotation\bin\Debug\CharRotation.exe.config
+C:\Users\pc\source\repos\Arrays\CharRotation\bin\Debug\CharRotation.exe
+C:\Users\pc\source\repos\Arrays\CharRotation\bin\Debug\CharRotation.pdb
+C:\Users\pc\source\repos\Arrays\CharRotation\obj\Debug\CharRotation.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\CharRotation\obj\Debug\CharRotation.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\CharRotation\obj\Debug\CharRotation.exe
+C:\Users\pc\source\repos\Arrays\CharRotation\obj\Debug\CharRotation.pdb

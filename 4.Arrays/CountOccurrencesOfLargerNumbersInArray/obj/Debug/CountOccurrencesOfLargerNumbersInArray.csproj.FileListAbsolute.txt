@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Arrays\CountOccurrencesOfLargerNumbersInArray\bin\Debug\CountOccurrencesOfLargerNumbersInArray.exe.config
+C:\Users\pc\source\repos\Arrays\CountOccurrencesOfLargerNumbersInArray\bin\Debug\CountOccurrencesOfLargerNumbersInArray.exe
+C:\Users\pc\source\repos\Arrays\CountOccurrencesOfLargerNumbersInArray\bin\Debug\CountOccurrencesOfLargerNumbersInArray.pdb
+C:\Users\pc\source\repos\Arrays\CountOccurrencesOfLargerNumbersInArray\obj\Debug\CountOccurrencesOfLargerNumbersInArray.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\CountOccurrencesOfLargerNumbersInArray\obj\Debug\CountOccurrencesOfLargerNumbersInArray.exe
+C:\Users\pc\source\repos\Arrays\CountOccurrencesOfLargerNumbersInArray\obj\Debug\CountOccurrencesOfLargerNumbersInArray.pdb

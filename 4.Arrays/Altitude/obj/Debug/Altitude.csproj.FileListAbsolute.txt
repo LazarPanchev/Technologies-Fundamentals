@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\Altitude\bin\Debug\Altitude.exe.config
+C:\Users\pc\source\repos\Arrays\Altitude\bin\Debug\Altitude.exe
+C:\Users\pc\source\repos\Arrays\Altitude\bin\Debug\Altitude.pdb
+C:\Users\pc\source\repos\Arrays\Altitude\obj\Debug\Altitude.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\Altitude\obj\Debug\Altitude.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\Altitude\obj\Debug\Altitude.exe
+C:\Users\pc\source\repos\Arrays\Altitude\obj\Debug\Altitude.pdb

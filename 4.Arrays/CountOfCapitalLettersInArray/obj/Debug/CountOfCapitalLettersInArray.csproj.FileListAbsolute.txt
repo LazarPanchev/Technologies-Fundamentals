@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.exe.config
+C:\Users\pc\source\repos\Arrays\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.exe
+C:\Users\pc\source\repos\Arrays\CountOfCapitalLettersInArray\bin\Debug\CountOfCapitalLettersInArray.pdb
+C:\Users\pc\source\repos\Arrays\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.exe
+C:\Users\pc\source\repos\Arrays\CountOfCapitalLettersInArray\obj\Debug\CountOfCapitalLettersInArray.pdb

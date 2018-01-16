@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\PowerPlants\obj\Debug\PowerPlants.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\PowerPlants\obj\Debug\PowerPlants.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\PowerPlants\bin\Debug\PowerPlants.exe.config
+C:\Users\pc\source\repos\Arrays\PowerPlants\bin\Debug\PowerPlants.exe
+C:\Users\pc\source\repos\Arrays\PowerPlants\bin\Debug\PowerPlants.pdb
+C:\Users\pc\source\repos\Arrays\PowerPlants\obj\Debug\PowerPlants.exe
+C:\Users\pc\source\repos\Arrays\PowerPlants\obj\Debug\PowerPlants.pdb

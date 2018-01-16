@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Arrays\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.exe.config
+C:\Users\pc\source\repos\Arrays\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.exe
+C:\Users\pc\source\repos\Arrays\ReverseAnArrayOfStrings\bin\Debug\ReverseAnArrayOfStrings.pdb
+C:\Users\pc\source\repos\Arrays\ReverseAnArrayOfStrings\obj\Debug\ReverseAnArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\ReverseAnArrayOfStrings\obj\Debug\ReverseAnArrayOfStrings.exe
+C:\Users\pc\source\repos\Arrays\ReverseAnArrayOfStrings\obj\Debug\ReverseAnArrayOfStrings.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\ArraySymmetry\bin\Debug\ArraySymmetry.exe.config
+C:\Users\pc\source\repos\Arrays\ArraySymmetry\bin\Debug\ArraySymmetry.exe
+C:\Users\pc\source\repos\Arrays\ArraySymmetry\bin\Debug\ArraySymmetry.pdb
+C:\Users\pc\source\repos\Arrays\ArraySymmetry\obj\Debug\ArraySymmetry.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\ArraySymmetry\obj\Debug\ArraySymmetry.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\ArraySymmetry\obj\Debug\ArraySymmetry.exe
+C:\Users\pc\source\repos\Arrays\ArraySymmetry\obj\Debug\ArraySymmetry.pdb

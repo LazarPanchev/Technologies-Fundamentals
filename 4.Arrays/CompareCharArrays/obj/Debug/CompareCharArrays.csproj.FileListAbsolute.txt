@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\pc\source\repos\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\pc\source\repos\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\pc\source\repos\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\pc\source\repos\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

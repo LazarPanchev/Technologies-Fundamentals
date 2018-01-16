@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\BalisticsTraining\bin\Debug\BalisticsTraining.exe.config
+C:\Users\pc\source\repos\Arrays\BalisticsTraining\bin\Debug\BalisticsTraining.exe
+C:\Users\pc\source\repos\Arrays\BalisticsTraining\bin\Debug\BalisticsTraining.pdb
+C:\Users\pc\source\repos\Arrays\BalisticsTraining\obj\Debug\BalisticsTraining.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\BalisticsTraining\obj\Debug\BalisticsTraining.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\BalisticsTraining\obj\Debug\BalisticsTraining.exe
+C:\Users\pc\source\repos\Arrays\BalisticsTraining\obj\Debug\BalisticsTraining.pdb

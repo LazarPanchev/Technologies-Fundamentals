@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Arrays\ReverseArraysOfIntegers\bin\Debug\ReverseArraysOfIntegers.exe.config
+C:\Users\pc\source\repos\Arrays\ReverseArraysOfIntegers\bin\Debug\ReverseArraysOfIntegers.exe
+C:\Users\pc\source\repos\Arrays\ReverseArraysOfIntegers\bin\Debug\ReverseArraysOfIntegers.pdb
+C:\Users\pc\source\repos\Arrays\ReverseArraysOfIntegers\obj\Debug\ReverseArraysOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\ReverseArraysOfIntegers\obj\Debug\ReverseArraysOfIntegers.exe
+C:\Users\pc\source\repos\Arrays\ReverseArraysOfIntegers\obj\Debug\ReverseArraysOfIntegers.pdb
