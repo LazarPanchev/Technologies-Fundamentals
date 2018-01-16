@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SequenceOfCommands\bin\Debug\SequenceOfCommands.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SequenceOfCommands\bin\Debug\SequenceOfCommands.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SequenceOfCommands\bin\Debug\SequenceOfCommands.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SequenceOfCommands\obj\Debug\SequenceOfCommands.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SequenceOfCommands\obj\Debug\SequenceOfCommands.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SequenceOfCommands\obj\Debug\SequenceOfCommands.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\SequenceOfCommands\obj\Debug\SequenceOfCommands.pdb

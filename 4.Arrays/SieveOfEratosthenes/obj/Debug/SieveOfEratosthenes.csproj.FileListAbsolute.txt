@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb

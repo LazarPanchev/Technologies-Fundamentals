@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{D7FE7579-66F0-4CE0-B35F-87482E52F80F}</ProjectGuid>
+=======
+    <ProjectGuid>{1793CAC2-3D58-4ECF-B188-02DED8089E0E}</ProjectGuid>
+>>>>>>> 0ae1e6acdaed4ed32134dca020bef60f7e4ff852
     <OutputType>Exe</OutputType>
     <RootNamespace>ResizableArray</RootNamespace>
     <AssemblyName>ResizableArray</AssemblyName>
@@ -42,7 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="ResizableArray.cs" />
+=======
+    <Compile Include="Program.cs" />
+>>>>>>> 0ae1e6acdaed4ed32134dca020bef60f7e4ff852
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

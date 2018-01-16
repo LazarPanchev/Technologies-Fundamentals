@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.exe.config
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.pdb
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\CountOfOddNumbersInArray\obj\Debug\CountOfOddNumbersInArray.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\CountOfOddNumbersInArray\obj\Debug\CountOfOddNumbersInArray.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\CountOfOddNumbersInArray\obj\Debug\CountOfOddNumbersInArray.pdb

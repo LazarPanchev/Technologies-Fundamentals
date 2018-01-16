@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CubeProperties\bin\Debug\CubeProperties.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CubeProperties\bin\Debug\CubeProperties.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CubeProperties\bin\Debug\CubeProperties.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CubeProperties\obj\Debug\CubeProperties.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CubeProperties\obj\Debug\CubeProperties.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CubeProperties\obj\Debug\CubeProperties.pdb

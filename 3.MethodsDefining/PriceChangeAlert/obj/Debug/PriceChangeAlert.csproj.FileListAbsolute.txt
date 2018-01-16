@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PriceChangeAlert\bin\Debug\PriceChangeAlert.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PriceChangeAlert\obj\Debug\PriceChangeAlert.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PriceChangeAlert\obj\Debug\PriceChangeAlert.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PriceChangeAlert\obj\Debug\PriceChangeAlert.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\PriceChangeAlert\obj\Debug\PriceChangeAlert.pdb

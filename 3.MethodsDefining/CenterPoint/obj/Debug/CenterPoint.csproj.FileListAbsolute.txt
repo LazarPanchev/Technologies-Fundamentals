@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CenterPoint\bin\Debug\CenterPoint.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CenterPoint\bin\Debug\CenterPoint.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CenterPoint\bin\Debug\CenterPoint.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CenterPoint\obj\Debug\CenterPoint.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CenterPoint\obj\Debug\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CenterPoint\obj\Debug\CenterPoint.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\CenterPoint\obj\Debug\CenterPoint.pdb

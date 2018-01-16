@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MostFrequentNumber\obj\Debug\MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MostFrequentNumber\obj\Debug\MostFrequentNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

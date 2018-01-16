@@ -1,4 +1,5 @@
 ﻿using System;
+<<<<<<< HEAD
 
 class ResizableArray
 {
@@ -90,3 +91,19 @@ class ResizableArray
         return numbersArray;
     }
 }
+=======
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ResizableArray
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
+>>>>>>> 0ae1e6acdaed4ed32134dca020bef60f7e4ff852

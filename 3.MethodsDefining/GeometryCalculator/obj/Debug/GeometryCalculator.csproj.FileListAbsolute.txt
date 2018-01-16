@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\GeometryCalculator\obj\Debug\GeometryCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\GeometryCalculator\obj\Debug\GeometryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\GeometryCalculator\obj\Debug\GeometryCalculator.pdb

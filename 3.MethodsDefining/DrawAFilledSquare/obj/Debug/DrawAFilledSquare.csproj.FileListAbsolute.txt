@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.pdb

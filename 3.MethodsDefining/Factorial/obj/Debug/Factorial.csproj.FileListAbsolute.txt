@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Factorial\bin\Debug\Factorial.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Factorial\obj\Debug\Factorial.exe
+C:\Users\Lazar\source\repos\Methods-DefiningAndCalling\Factorial\obj\Debug\Factorial.pdb
