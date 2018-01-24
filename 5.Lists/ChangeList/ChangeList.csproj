@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{B8C4DABF-0BCB-469B-91C3-87592B5F3F19}</ProjectGuid>
+=======
+    <ProjectGuid>{0355299E-323B-4D61-A0AD-0475A7E3A30B}</ProjectGuid>
+>>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
     <OutputType>Exe</OutputType>
     <RootNamespace>ChangeList</RootNamespace>
     <AssemblyName>ChangeList</AssemblyName>
@@ -42,7 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Program.cs" />
+=======
+    <Compile Include="ChangeList.cs" />
+>>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

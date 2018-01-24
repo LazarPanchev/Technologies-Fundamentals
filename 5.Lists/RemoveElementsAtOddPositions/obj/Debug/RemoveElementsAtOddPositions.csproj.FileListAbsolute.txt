@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.exe.config
+C:\Users\Lazar\source\repos\Lists\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.exe
+C:\Users\Lazar\source\repos\Lists\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.pdb
+C:\Users\Lazar\source\repos\Lists\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.exe
+C:\Users\Lazar\source\repos\Lists\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.pdb

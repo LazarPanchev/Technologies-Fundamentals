@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+C:\Users\Lazar\source\repos\Lists\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+C:\Users\Lazar\source\repos\Lists\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+C:\Users\Lazar\source\repos\Lists\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\ArrayManipulator\obj\Debug\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+C:\Users\Lazar\source\repos\Lists\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

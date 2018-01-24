@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\TearListInHalf\bin\Debug\TearListInHalf.exe.config
+C:\Users\Lazar\source\repos\Lists\TearListInHalf\bin\Debug\TearListInHalf.exe
+C:\Users\Lazar\source\repos\Lists\TearListInHalf\bin\Debug\TearListInHalf.pdb
+C:\Users\Lazar\source\repos\Lists\TearListInHalf\obj\Debug\TearListInHalf.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\TearListInHalf\obj\Debug\TearListInHalf.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\TearListInHalf\obj\Debug\TearListInHalf.exe
+C:\Users\Lazar\source\repos\Lists\TearListInHalf\obj\Debug\TearListInHalf.pdb

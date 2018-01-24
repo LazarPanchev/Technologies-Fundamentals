@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe.config
+C:\Users\Lazar\source\repos\Lists\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe
+C:\Users\Lazar\source\repos\Lists\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.pdb
+C:\Users\Lazar\source\repos\Lists\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.exe
+C:\Users\Lazar\source\repos\Lists\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.pdb

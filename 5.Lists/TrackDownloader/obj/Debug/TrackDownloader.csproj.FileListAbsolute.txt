@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\TrackDownloader\bin\Debug\TrackDownloader.exe.config
+C:\Users\Lazar\source\repos\Lists\TrackDownloader\bin\Debug\TrackDownloader.exe
+C:\Users\Lazar\source\repos\Lists\TrackDownloader\bin\Debug\TrackDownloader.pdb
+C:\Users\Lazar\source\repos\Lists\TrackDownloader\obj\Debug\TrackDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\TrackDownloader\obj\Debug\TrackDownloader.exe
+C:\Users\Lazar\source\repos\Lists\TrackDownloader\obj\Debug\TrackDownloader.pdb
+C:\Users\Lazar\source\repos\Lists\TrackDownloader\obj\Debug\TrackDownloader.csprojResolveAssemblyReference.cache

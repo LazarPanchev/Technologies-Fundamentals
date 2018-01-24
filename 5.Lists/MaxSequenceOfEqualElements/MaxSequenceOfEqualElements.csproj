@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{EDD4CC04-D2BE-4623-8C31-8B201F183525}</ProjectGuid>
+=======
+    <ProjectGuid>{BF79719B-3BB9-41D1-86FC-F96FC18AF146}</ProjectGuid>
+>>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
     <OutputType>Exe</OutputType>
     <RootNamespace>MaxSequenceOfEqualElements</RootNamespace>
     <AssemblyName>MaxSequenceOfEqualElements</AssemblyName>

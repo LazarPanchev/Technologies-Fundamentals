@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\DistinctList\bin\Debug\DistinctList.exe.config
+C:\Users\Lazar\source\repos\Lists\DistinctList\bin\Debug\DistinctList.exe
+C:\Users\Lazar\source\repos\Lists\DistinctList\bin\Debug\DistinctList.pdb
+C:\Users\Lazar\source\repos\Lists\DistinctList\obj\Debug\DistinctList.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\DistinctList\obj\Debug\DistinctList.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\DistinctList\obj\Debug\DistinctList.exe
+C:\Users\Lazar\source\repos\Lists\DistinctList\obj\Debug\DistinctList.pdb

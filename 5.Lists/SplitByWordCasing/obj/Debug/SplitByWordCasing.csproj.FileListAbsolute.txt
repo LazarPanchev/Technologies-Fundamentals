@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe.config
+C:\Users\Lazar\source\repos\Lists\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe
+C:\Users\Lazar\source\repos\Lists\SplitByWordCasing\bin\Debug\SplitByWordCasing.pdb
+C:\Users\Lazar\source\repos\Lists\SplitByWordCasing\obj\Debug\SplitByWordCasing.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\SplitByWordCasing\obj\Debug\SplitByWordCasing.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\SplitByWordCasing\obj\Debug\SplitByWordCasing.exe
+C:\Users\Lazar\source\repos\Lists\SplitByWordCasing\obj\Debug\SplitByWordCasing.pdb

@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{C508A33B-DD06-472E-80E3-2FBE0A4CAD20}</ProjectGuid>
+=======
+    <ProjectGuid>{FFC07F91-DC6B-4548-85A1-37A9C00FE24A}</ProjectGuid>
+>>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
     <OutputType>Exe</OutputType>
     <RootNamespace>SortNumbers</RootNamespace>
     <AssemblyName>SortNumbers</AssemblyName>
@@ -42,7 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="SortNumbers.cs" />
+=======
+    <Compile Include="Program.cs" />
+>>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

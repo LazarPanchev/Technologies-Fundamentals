@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\RemoveNegativesAndreverse\bin\Debug\RemoveNegativesAndreverse.exe.config
+C:\Users\Lazar\source\repos\Lists\RemoveNegativesAndreverse\bin\Debug\RemoveNegativesAndreverse.exe
+C:\Users\Lazar\source\repos\Lists\RemoveNegativesAndreverse\bin\Debug\RemoveNegativesAndreverse.pdb
+C:\Users\Lazar\source\repos\Lists\RemoveNegativesAndreverse\obj\Debug\RemoveNegativesAndreverse.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\RemoveNegativesAndreverse\obj\Debug\RemoveNegativesAndreverse.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\RemoveNegativesAndreverse\obj\Debug\RemoveNegativesAndreverse.exe
+C:\Users\Lazar\source\repos\Lists\RemoveNegativesAndreverse\obj\Debug\RemoveNegativesAndreverse.pdb

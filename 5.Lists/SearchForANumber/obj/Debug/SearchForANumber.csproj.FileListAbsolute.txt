@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\SearchForANumber\bin\Debug\SearchForANumber.exe.config
+C:\Users\Lazar\source\repos\Lists\SearchForANumber\bin\Debug\SearchForANumber.exe
+C:\Users\Lazar\source\repos\Lists\SearchForANumber\bin\Debug\SearchForANumber.pdb
+C:\Users\Lazar\source\repos\Lists\SearchForANumber\obj\Debug\SearchForANumber.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\SearchForANumber\obj\Debug\SearchForANumber.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\SearchForANumber\obj\Debug\SearchForANumber.exe
+C:\Users\Lazar\source\repos\Lists\SearchForANumber\obj\Debug\SearchForANumber.pdb
