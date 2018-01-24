@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\Lists\ChangeList\bin\Debug\ChangeList.exe.config
+C:\Users\Lazar\source\repos\Lists\ChangeList\bin\Debug\ChangeList.exe
+C:\Users\Lazar\source\repos\Lists\ChangeList\bin\Debug\ChangeList.pdb
+C:\Users\Lazar\source\repos\Lists\ChangeList\obj\Debug\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\ChangeList\obj\Debug\ChangeList.exe
+C:\Users\Lazar\source\repos\Lists\ChangeList\obj\Debug\ChangeList.pdb

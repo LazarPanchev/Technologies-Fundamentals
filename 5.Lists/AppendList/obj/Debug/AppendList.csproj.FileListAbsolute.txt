@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\AppendList\bin\Debug\AppendList.exe.config
+C:\Users\Lazar\source\repos\Lists\AppendList\bin\Debug\AppendList.exe
+C:\Users\Lazar\source\repos\Lists\AppendList\bin\Debug\AppendList.pdb
+C:\Users\Lazar\source\repos\Lists\AppendList\obj\Debug\AppendList.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\AppendList\obj\Debug\AppendList.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\AppendList\obj\Debug\AppendList.exe
+C:\Users\Lazar\source\repos\Lists\AppendList\obj\Debug\AppendList.pdb

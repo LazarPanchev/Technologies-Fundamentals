@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+C:\Users\Lazar\source\repos\Lists\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\Lazar\source\repos\Lists\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+C:\Users\Lazar\source\repos\Lists\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\Lazar\source\repos\Lists\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

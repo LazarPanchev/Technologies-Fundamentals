@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\Lists\CountNumbers\bin\Debug\CountNumbers.exe.config
+C:\Users\Lazar\source\repos\Lists\CountNumbers\bin\Debug\CountNumbers.exe
+C:\Users\Lazar\source\repos\Lists\CountNumbers\bin\Debug\CountNumbers.pdb
+C:\Users\Lazar\source\repos\Lists\CountNumbers\obj\Debug\CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Lists\CountNumbers\obj\Debug\CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Lists\CountNumbers\obj\Debug\CountNumbers.exe
+C:\Users\Lazar\source\repos\Lists\CountNumbers\obj\Debug\CountNumbers.pdb
