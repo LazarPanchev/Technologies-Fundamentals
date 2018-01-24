@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+C:\Users\pc\source\repos\Arrays\Phone\bin\Debug\Phone.exe.config
+C:\Users\pc\source\repos\Arrays\Phone\bin\Debug\Phone.exe
+C:\Users\pc\source\repos\Arrays\Phone\bin\Debug\Phone.pdb
+C:\Users\pc\source\repos\Arrays\Phone\obj\Debug\Phone.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\Phone\obj\Debug\Phone.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\Phone\obj\Debug\Phone.exe
+C:\Users\pc\source\repos\Arrays\Phone\obj\Debug\Phone.pdb
+=======
 C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\Phone\bin\Debug\Phone.exe.config
 C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\Phone\bin\Debug\Phone.exe
 C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\Phone\bin\Debug\Phone.pdb
@@ -5,3 +14,4 @@ C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\Phone\obj\Debug\Phone.c
 C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\Phone\obj\Debug\Phone.csproj.CoreCompileInputs.cache
 C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\Phone\obj\Debug\Phone.exe
 C:\Users\Lazar\source\repos\Arrays-SimpleArrayProcessing\Phone\obj\Debug\Phone.pdb
+>>>>>>> 0ae1e6acdaed4ed32134dca020bef60f7e4ff852

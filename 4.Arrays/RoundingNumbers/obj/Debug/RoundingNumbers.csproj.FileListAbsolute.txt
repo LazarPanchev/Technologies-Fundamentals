@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe.config
+C:\Users\pc\source\repos\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe
+C:\Users\pc\source\repos\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.pdb
+C:\Users\pc\source\repos\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.exe
+C:\Users\pc\source\repos\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.pdb

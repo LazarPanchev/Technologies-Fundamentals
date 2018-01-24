@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Arrays\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.exe.config
+C:\Users\pc\source\repos\Arrays\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.exe
+C:\Users\pc\source\repos\Arrays\CountOfGivenElementInArray\bin\Debug\CountOfGivenElementInArray.pdb
+C:\Users\pc\source\repos\Arrays\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.exe
+C:\Users\pc\source\repos\Arrays\CountOfGivenElementInArray\obj\Debug\CountOfGivenElementInArray.pdb

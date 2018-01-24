@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
+    <ProjectGuid>{E6D4D042-E676-4000-BC83-A87947954FFC}</ProjectGuid>
+=======
     <ProjectGuid>{591DCB3A-3DD6-487A-A414-9DF18067D7B3}</ProjectGuid>
+>>>>>>> 0ae1e6acdaed4ed32134dca020bef60f7e4ff852
     <OutputType>Exe</OutputType>
     <RootNamespace>RotateAndSum</RootNamespace>
     <AssemblyName>RotateAndSum</AssemblyName>

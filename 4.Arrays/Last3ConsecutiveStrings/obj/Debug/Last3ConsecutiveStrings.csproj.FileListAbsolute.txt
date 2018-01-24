@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\Last3ConsecutiveStrings\bin\Debug\Last3ConsecutiveStrings.exe.config
+C:\Users\pc\source\repos\Arrays\Last3ConsecutiveStrings\bin\Debug\Last3ConsecutiveStrings.exe
+C:\Users\pc\source\repos\Arrays\Last3ConsecutiveStrings\bin\Debug\Last3ConsecutiveStrings.pdb
+C:\Users\pc\source\repos\Arrays\Last3ConsecutiveStrings\obj\Debug\Last3ConsecutiveStrings.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\Last3ConsecutiveStrings\obj\Debug\Last3ConsecutiveStrings.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\Last3ConsecutiveStrings\obj\Debug\Last3ConsecutiveStrings.exe
+C:\Users\pc\source\repos\Arrays\Last3ConsecutiveStrings\obj\Debug\Last3ConsecutiveStrings.pdb

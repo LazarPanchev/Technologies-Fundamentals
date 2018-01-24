@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Arrays\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.exe.config
+C:\Users\pc\source\repos\Arrays\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.exe
+C:\Users\pc\source\repos\Arrays\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.pdb
+C:\Users\pc\source\repos\Arrays\IncreasingSequenceOfElements\obj\Debug\IncreasingSequenceOfElements.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\IncreasingSequenceOfElements\obj\Debug\IncreasingSequenceOfElements.exe
+C:\Users\pc\source\repos\Arrays\IncreasingSequenceOfElements\obj\Debug\IncreasingSequenceOfElements.pdb

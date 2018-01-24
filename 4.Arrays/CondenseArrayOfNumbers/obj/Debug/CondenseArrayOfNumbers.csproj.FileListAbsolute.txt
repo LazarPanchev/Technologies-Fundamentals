@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\CondenseArrayOfNumbers\bin\Debug\CondenseArrayOfNumbers.exe.config
+C:\Users\pc\source\repos\Arrays\CondenseArrayOfNumbers\bin\Debug\CondenseArrayOfNumbers.exe
+C:\Users\pc\source\repos\Arrays\CondenseArrayOfNumbers\bin\Debug\CondenseArrayOfNumbers.pdb
+C:\Users\pc\source\repos\Arrays\CondenseArrayOfNumbers\obj\Debug\CondenseArrayOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\CondenseArrayOfNumbers\obj\Debug\CondenseArrayOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\CondenseArrayOfNumbers\obj\Debug\CondenseArrayOfNumbers.exe
+C:\Users\pc\source\repos\Arrays\CondenseArrayOfNumbers\obj\Debug\CondenseArrayOfNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+C:\Users\pc\source\repos\Arrays\FoldAndSum\bin\Debug\FoldAndSum.exe
+C:\Users\pc\source\repos\Arrays\FoldAndSum\bin\Debug\FoldAndSum.pdb
+C:\Users\pc\source\repos\Arrays\FoldAndSum\obj\Debug\FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\FoldAndSum\obj\Debug\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\FoldAndSum\obj\Debug\FoldAndSum.exe
+C:\Users\pc\source\repos\Arrays\FoldAndSum\obj\Debug\FoldAndSum.pdb

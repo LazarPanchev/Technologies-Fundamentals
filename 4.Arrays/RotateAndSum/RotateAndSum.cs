@@ -7,6 +7,42 @@
     {
         public static void Main()
         {
+<<<<<<< HEAD
+            int[] inputArray = Console.ReadLine()
+                .Split(' ')
+                .Select(int.Parse)
+                .ToArray();
+            int rotate = int.Parse(Console.ReadLine());
+            int[] sum = new int[inputArray.Length];
+
+            for (int i = 0; i < rotate; i++)
+            {
+                RotateArr(inputArray);
+                SumArrays(inputArray, sum);
+            }
+
+            Console.WriteLine(String.Join(" ",sum));
+        }
+
+        public static void RotateArr(int[] array)
+        {
+
+            int firstDigit = array[array.Length - 1];
+            for (int i = array.Length-1; i >0; i--)
+            {
+                array[i] = array[i-1];
+            }
+
+            array[0] = firstDigit;    
+        }
+
+        public static void SumArrays(int[] inputArray,int[] sum)
+        {
+            for (int i = 0; i < inputArray.Length; i++)
+            {
+                sum[i] += inputArray[i];
+            }
+=======
             int[] array = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
             int rotateTimesK = int.Parse(Console.ReadLine());
 
@@ -45,6 +81,7 @@
             rotateArray[0] = lastElement;
 
             return rotateArray;
+>>>>>>> 0ae1e6acdaed4ed32134dca020bef60f7e4ff852
         }
     }
 }

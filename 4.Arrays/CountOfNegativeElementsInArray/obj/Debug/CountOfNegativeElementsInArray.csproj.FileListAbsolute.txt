@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Arrays\CountOfNegativeElementsInArray\bin\Debug\CountOfNegativeElementsInArray.exe.config
+C:\Users\pc\source\repos\Arrays\CountOfNegativeElementsInArray\bin\Debug\CountOfNegativeElementsInArray.exe
+C:\Users\pc\source\repos\Arrays\CountOfNegativeElementsInArray\bin\Debug\CountOfNegativeElementsInArray.pdb
+C:\Users\pc\source\repos\Arrays\CountOfNegativeElementsInArray\obj\Debug\CountOfNegativeElementsInArray.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\CountOfNegativeElementsInArray\obj\Debug\CountOfNegativeElementsInArray.exe
+C:\Users\pc\source\repos\Arrays\CountOfNegativeElementsInArray\obj\Debug\CountOfNegativeElementsInArray.pdb

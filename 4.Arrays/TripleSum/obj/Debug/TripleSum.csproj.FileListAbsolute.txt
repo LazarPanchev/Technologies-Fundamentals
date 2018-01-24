@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Arrays\TripleSum\bin\Debug\TripleSum.exe.config
+C:\Users\pc\source\repos\Arrays\TripleSum\bin\Debug\TripleSum.exe
+C:\Users\pc\source\repos\Arrays\TripleSum\bin\Debug\TripleSum.pdb
+C:\Users\pc\source\repos\Arrays\TripleSum\obj\Debug\TripleSum.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\TripleSum\obj\Debug\TripleSum.exe
+C:\Users\pc\source\repos\Arrays\TripleSum\obj\Debug\TripleSum.pdb

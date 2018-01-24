@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Arrays\LargestElementInArray\bin\Debug\LargestElementInArray.exe.config
+C:\Users\pc\source\repos\Arrays\LargestElementInArray\bin\Debug\LargestElementInArray.exe
+C:\Users\pc\source\repos\Arrays\LargestElementInArray\bin\Debug\LargestElementInArray.pdb
+C:\Users\pc\source\repos\Arrays\LargestElementInArray\obj\Debug\LargestElementInArray.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Arrays\LargestElementInArray\obj\Debug\LargestElementInArray.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Arrays\LargestElementInArray\obj\Debug\LargestElementInArray.exe
+C:\Users\pc\source\repos\Arrays\LargestElementInArray\obj\Debug\LargestElementInArray.pdb
