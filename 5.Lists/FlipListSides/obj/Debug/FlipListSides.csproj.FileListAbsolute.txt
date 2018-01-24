@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Lists\FlipListSides\bin\Debug\FlipListSides.exe.config
+C:\Users\pc\source\repos\Lists\FlipListSides\bin\Debug\FlipListSides.exe
+C:\Users\pc\source\repos\Lists\FlipListSides\bin\Debug\FlipListSides.pdb
+C:\Users\pc\source\repos\Lists\FlipListSides\obj\Debug\FlipListSides.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Lists\FlipListSides\obj\Debug\FlipListSides.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lists\FlipListSides\obj\Debug\FlipListSides.exe
+C:\Users\pc\source\repos\Lists\FlipListSides\obj\Debug\FlipListSides.pdb

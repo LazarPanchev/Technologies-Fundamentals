@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Lists\SplitbyWordCasting\bin\Debug\SplitbyWordCasting.exe.config
+C:\Users\pc\source\repos\Lists\SplitbyWordCasting\bin\Debug\SplitbyWordCasting.exe
+C:\Users\pc\source\repos\Lists\SplitbyWordCasting\bin\Debug\SplitbyWordCasting.pdb
+C:\Users\pc\source\repos\Lists\SplitbyWordCasting\obj\Debug\SplitbyWordCasting.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Lists\SplitbyWordCasting\obj\Debug\SplitbyWordCasting.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lists\SplitbyWordCasting\obj\Debug\SplitbyWordCasting.exe
+C:\Users\pc\source\repos\Lists\SplitbyWordCasting\obj\Debug\SplitbyWordCasting.pdb

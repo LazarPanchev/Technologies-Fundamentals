@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Lists\ChangeList\bin\Debug\ChangeList.exe.config
+C:\Users\pc\source\repos\Lists\ChangeList\bin\Debug\ChangeList.exe
+C:\Users\pc\source\repos\Lists\ChangeList\bin\Debug\ChangeList.pdb
+C:\Users\pc\source\repos\Lists\ChangeList\obj\Debug\ChangeList.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Lists\ChangeList\obj\Debug\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lists\ChangeList\obj\Debug\ChangeList.exe
+C:\Users\pc\source\repos\Lists\ChangeList\obj\Debug\ChangeList.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Lists\NoteStatistics\bin\Debug\NoteStatistics.exe.config
+C:\Users\pc\source\repos\Lists\NoteStatistics\bin\Debug\NoteStatistics.exe
+C:\Users\pc\source\repos\Lists\NoteStatistics\bin\Debug\NoteStatistics.pdb
+C:\Users\pc\source\repos\Lists\NoteStatistics\obj\Debug\NoteStatistics.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Lists\NoteStatistics\obj\Debug\NoteStatistics.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lists\NoteStatistics\obj\Debug\NoteStatistics.exe
+C:\Users\pc\source\repos\Lists\NoteStatistics\obj\Debug\NoteStatistics.pdb

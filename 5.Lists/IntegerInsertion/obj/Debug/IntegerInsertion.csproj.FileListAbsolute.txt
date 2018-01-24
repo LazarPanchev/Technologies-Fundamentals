@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Lists\IntegerInsertion\bin\Debug\IntegerInsertion.exe.config
+C:\Users\pc\source\repos\Lists\IntegerInsertion\bin\Debug\IntegerInsertion.exe
+C:\Users\pc\source\repos\Lists\IntegerInsertion\bin\Debug\IntegerInsertion.pdb
+C:\Users\pc\source\repos\Lists\IntegerInsertion\obj\Debug\IntegerInsertion.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Lists\IntegerInsertion\obj\Debug\IntegerInsertion.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lists\IntegerInsertion\obj\Debug\IntegerInsertion.exe
+C:\Users\pc\source\repos\Lists\IntegerInsertion\obj\Debug\IntegerInsertion.pdb

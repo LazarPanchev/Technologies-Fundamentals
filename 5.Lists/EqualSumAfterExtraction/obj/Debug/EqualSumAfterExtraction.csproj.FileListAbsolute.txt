@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Lists\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.exe.config
+C:\Users\pc\source\repos\Lists\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.exe
+C:\Users\pc\source\repos\Lists\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.pdb
+C:\Users\pc\source\repos\Lists\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Lists\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lists\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.exe
+C:\Users\pc\source\repos\Lists\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.pdb
