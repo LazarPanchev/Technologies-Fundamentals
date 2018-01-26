@@ -1,0 +1,6 @@
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\LargestNElements\bin\Debug\LargestNElements.exe.config
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\LargestNElements\bin\Debug\LargestNElements.exe
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\LargestNElements\bin\Debug\LargestNElements.pdb
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\LargestNElements\obj\Debug\LargestNElements.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\LargestNElements\obj\Debug\LargestNElements.exe
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\LargestNElements\obj\Debug\LargestNElements.pdb

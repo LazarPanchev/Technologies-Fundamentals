@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\ArrayHistogram\bin\Debug\netcoreapp1.1\ArrayHistogram.deps.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\ArrayHistogram\bin\Debug\netcoreapp1.1\ArrayHistogram.runtimeconfig.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\ArrayHistogram\bin\Debug\netcoreapp1.1\ArrayHistogram.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\ArrayHistogram\bin\Debug\netcoreapp1.1\ArrayHistogram.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\ArrayHistogram\bin\Debug\netcoreapp1.1\ArrayHistogram.pdb
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\ArrayHistogram\obj\Debug\netcoreapp1.1\ArrayHistogram.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\ArrayHistogram\obj\Debug\netcoreapp1.1\ArrayHistogram.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\ArrayHistogram\obj\Debug\netcoreapp1.1\ArrayHistogram.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\ArrayHistogram\obj\Debug\netcoreapp1.1\ArrayHistogram.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\ArrayHistogram\obj\Debug\netcoreapp1.1\ArrayHistogram.pdb

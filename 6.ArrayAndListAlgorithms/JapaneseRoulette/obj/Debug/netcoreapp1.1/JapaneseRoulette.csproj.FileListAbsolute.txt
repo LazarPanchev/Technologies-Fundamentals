@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\JapaneseRoulette\bin\Debug\netcoreapp1.1\JapaneseRoulette.deps.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\JapaneseRoulette\bin\Debug\netcoreapp1.1\JapaneseRoulette.runtimeconfig.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\JapaneseRoulette\bin\Debug\netcoreapp1.1\JapaneseRoulette.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\JapaneseRoulette\bin\Debug\netcoreapp1.1\JapaneseRoulette.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\JapaneseRoulette\bin\Debug\netcoreapp1.1\JapaneseRoulette.pdb
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\JapaneseRoulette\obj\Debug\netcoreapp1.1\JapaneseRoulette.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\JapaneseRoulette\obj\Debug\netcoreapp1.1\JapaneseRoulette.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\JapaneseRoulette\obj\Debug\netcoreapp1.1\JapaneseRoulette.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\JapaneseRoulette\obj\Debug\netcoreapp1.1\JapaneseRoulette.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\JapaneseRoulette\obj\Debug\netcoreapp1.1\JapaneseRoulette.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\InsertionSortUsingList\bin\Debug\InsertionSortUsingList.exe.config
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\InsertionSortUsingList\bin\Debug\InsertionSortUsingList.exe
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\InsertionSortUsingList\bin\Debug\InsertionSortUsingList.pdb
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\InsertionSortUsingList\obj\Debug\InsertionSortUsingList.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\InsertionSortUsingList\obj\Debug\InsertionSortUsingList.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\InsertionSortUsingList\obj\Debug\InsertionSortUsingList.exe
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\InsertionSortUsingList\obj\Debug\InsertionSortUsingList.pdb

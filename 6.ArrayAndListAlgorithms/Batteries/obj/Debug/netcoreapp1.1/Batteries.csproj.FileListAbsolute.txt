@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\Batteries\bin\Debug\netcoreapp1.1\Batteries.deps.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\Batteries\bin\Debug\netcoreapp1.1\Batteries.runtimeconfig.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\Batteries\bin\Debug\netcoreapp1.1\Batteries.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\Batteries\bin\Debug\netcoreapp1.1\Batteries.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\Batteries\bin\Debug\netcoreapp1.1\Batteries.pdb
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\Batteries\obj\Debug\netcoreapp1.1\Batteries.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\Batteries\obj\Debug\netcoreapp1.1\Batteries.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\Batteries\obj\Debug\netcoreapp1.1\Batteries.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\Batteries\obj\Debug\netcoreapp1.1\Batteries.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\Batteries\obj\Debug\netcoreapp1.1\Batteries.pdb

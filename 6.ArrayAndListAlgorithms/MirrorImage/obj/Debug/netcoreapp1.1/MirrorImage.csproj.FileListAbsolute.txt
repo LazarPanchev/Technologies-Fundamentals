@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\MirrorImage\bin\Debug\netcoreapp1.1\MirrorImage.deps.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\MirrorImage\bin\Debug\netcoreapp1.1\MirrorImage.runtimeconfig.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\MirrorImage\bin\Debug\netcoreapp1.1\MirrorImage.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\MirrorImage\bin\Debug\netcoreapp1.1\MirrorImage.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\MirrorImage\bin\Debug\netcoreapp1.1\MirrorImage.pdb
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\MirrorImage\obj\Debug\netcoreapp1.1\MirrorImage.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\MirrorImage\obj\Debug\netcoreapp1.1\MirrorImage.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\MirrorImage\obj\Debug\netcoreapp1.1\MirrorImage.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\MirrorImage\obj\Debug\netcoreapp1.1\MirrorImage.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\MirrorImage\obj\Debug\netcoreapp1.1\MirrorImage.pdb

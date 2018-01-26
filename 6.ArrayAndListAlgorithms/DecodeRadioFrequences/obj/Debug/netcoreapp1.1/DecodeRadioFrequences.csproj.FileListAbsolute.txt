@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\DecodeRadioFrequences\bin\Debug\netcoreapp1.1\DecodeRadioFrequences.deps.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\DecodeRadioFrequences\bin\Debug\netcoreapp1.1\DecodeRadioFrequences.runtimeconfig.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\DecodeRadioFrequences\bin\Debug\netcoreapp1.1\DecodeRadioFrequences.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\DecodeRadioFrequences\bin\Debug\netcoreapp1.1\DecodeRadioFrequences.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\DecodeRadioFrequences\bin\Debug\netcoreapp1.1\DecodeRadioFrequences.pdb
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\DecodeRadioFrequences\obj\Debug\netcoreapp1.1\DecodeRadioFrequences.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\DecodeRadioFrequences\obj\Debug\netcoreapp1.1\DecodeRadioFrequences.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\DecodeRadioFrequences\obj\Debug\netcoreapp1.1\DecodeRadioFrequences.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\DecodeRadioFrequences\obj\Debug\netcoreapp1.1\DecodeRadioFrequences.pdb
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\DecodeRadioFrequences\obj\Debug\netcoreapp1.1\DecodeRadioFrequences.csprojResolveAssemblyReference.cache

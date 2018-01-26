@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayOfStrings\bin\Debug\netcoreapp1.1\SortArrayOfStrings.deps.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayOfStrings\bin\Debug\netcoreapp1.1\SortArrayOfStrings.runtimeconfig.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayOfStrings\bin\Debug\netcoreapp1.1\SortArrayOfStrings.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayOfStrings\bin\Debug\netcoreapp1.1\SortArrayOfStrings.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayOfStrings\bin\Debug\netcoreapp1.1\SortArrayOfStrings.pdb
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayOfStrings\obj\Debug\netcoreapp1.1\SortArrayOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayOfStrings\obj\Debug\netcoreapp1.1\SortArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayOfStrings\obj\Debug\netcoreapp1.1\SortArrayOfStrings.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayOfStrings\obj\Debug\netcoreapp1.1\SortArrayOfStrings.dll
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayOfStrings\obj\Debug\netcoreapp1.1\SortArrayOfStrings.pdb

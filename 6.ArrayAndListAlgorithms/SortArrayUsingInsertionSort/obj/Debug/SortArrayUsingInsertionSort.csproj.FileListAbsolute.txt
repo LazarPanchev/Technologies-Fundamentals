@@ -1,0 +1,7 @@
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.exe.config
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.exe
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.pdb
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayUsingInsertionSort\obj\Debug\SortArrayUsingInsertionSort.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayUsingInsertionSort\obj\Debug\SortArrayUsingInsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayUsingInsertionSort\obj\Debug\SortArrayUsingInsertionSort.exe
+C:\Users\Lazar\source\repos\ArrayAndListAlgorithms\SortArrayUsingInsertionSort\obj\Debug\SortArrayUsingInsertionSort.pdb
