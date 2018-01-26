@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\bin\Debug\netcoreapp2.0\AverageCharacterDelimiter.deps.json
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\bin\Debug\netcoreapp2.0\AverageCharacterDelimiter.runtimeconfig.json
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\bin\Debug\netcoreapp2.0\AverageCharacterDelimiter.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\bin\Debug\netcoreapp2.0\AverageCharacterDelimiter.dll
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\bin\Debug\netcoreapp2.0\AverageCharacterDelimiter.pdb
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\obj\Debug\netcoreapp2.0\AverageCharacterDelimiter.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\obj\Debug\netcoreapp2.0\AverageCharacterDelimiter.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\obj\Debug\netcoreapp2.0\AverageCharacterDelimiter.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\obj\Debug\netcoreapp2.0\AverageCharacterDelimiter.AssemblyInfo.cs
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\obj\Debug\netcoreapp2.0\AverageCharacterDelimiter.dll
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\AverageCharacterDelimiter\obj\Debug\netcoreapp2.0\AverageCharacterDelimiter.pdb

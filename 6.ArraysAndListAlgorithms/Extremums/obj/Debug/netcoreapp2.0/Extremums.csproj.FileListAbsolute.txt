@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\bin\Debug\netcoreapp2.0\Extremums.deps.json
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\bin\Debug\netcoreapp2.0\Extremums.runtimeconfig.json
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\bin\Debug\netcoreapp2.0\Extremums.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\bin\Debug\netcoreapp2.0\Extremums.dll
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\bin\Debug\netcoreapp2.0\Extremums.pdb
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\obj\Debug\netcoreapp2.0\Extremums.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\obj\Debug\netcoreapp2.0\Extremums.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\obj\Debug\netcoreapp2.0\Extremums.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\obj\Debug\netcoreapp2.0\Extremums.AssemblyInfo.cs
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\obj\Debug\netcoreapp2.0\Extremums.dll
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\Extremums\obj\Debug\netcoreapp2.0\Extremums.pdb
