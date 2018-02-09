@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Lists\Winecraft2\bin\Debug\Winecraft2.exe.config
+C:\Users\pc\source\repos\Lists\Winecraft2\bin\Debug\Winecraft2.exe
+C:\Users\pc\source\repos\Lists\Winecraft2\bin\Debug\Winecraft2.pdb
+C:\Users\pc\source\repos\Lists\Winecraft2\obj\Debug\Winecraft2.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Lists\Winecraft2\obj\Debug\Winecraft2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lists\Winecraft2\obj\Debug\Winecraft2.exe
+C:\Users\pc\source\repos\Lists\Winecraft2\obj\Debug\Winecraft2.pdb

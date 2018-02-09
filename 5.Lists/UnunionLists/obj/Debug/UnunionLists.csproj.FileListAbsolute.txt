@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Lists\UnunionLists\bin\Debug\UnunionLists.exe.config
+C:\Users\pc\source\repos\Lists\UnunionLists\bin\Debug\UnunionLists.exe
+C:\Users\pc\source\repos\Lists\UnunionLists\bin\Debug\UnunionLists.pdb
+C:\Users\pc\source\repos\Lists\UnunionLists\obj\Debug\UnunionLists.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Lists\UnunionLists\obj\Debug\UnunionLists.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lists\UnunionLists\obj\Debug\UnunionLists.exe
+C:\Users\pc\source\repos\Lists\UnunionLists\obj\Debug\UnunionLists.pdb

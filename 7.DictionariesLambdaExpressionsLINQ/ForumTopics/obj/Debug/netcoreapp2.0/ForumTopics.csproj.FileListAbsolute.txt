@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\bin\Debug\netcoreapp2.0\ForumTopics.deps.json
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\bin\Debug\netcoreapp2.0\ForumTopics.runtimeconfig.json
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\bin\Debug\netcoreapp2.0\ForumTopics.runtimeconfig.dev.json
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\bin\Debug\netcoreapp2.0\ForumTopics.dll
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\bin\Debug\netcoreapp2.0\ForumTopics.pdb
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\obj\Debug\netcoreapp2.0\ForumTopics.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\obj\Debug\netcoreapp2.0\ForumTopics.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\obj\Debug\netcoreapp2.0\ForumTopics.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\obj\Debug\netcoreapp2.0\ForumTopics.AssemblyInfo.cs
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\obj\Debug\netcoreapp2.0\ForumTopics.dll
+C:\Users\pc\source\repos\DemoDictionary\ForumTopics\obj\Debug\netcoreapp2.0\ForumTopics.pdb

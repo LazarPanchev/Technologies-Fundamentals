@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.exe.config
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.exe
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\SortArrayUsingBubbleSort\bin\Debug\SortArrayUsingBubbleSort.pdb
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\SortArrayUsingBubbleSort\obj\Debug\SortArrayUsingBubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\SortArrayUsingBubbleSort\obj\Debug\SortArrayUsingBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\SortArrayUsingBubbleSort\obj\Debug\SortArrayUsingBubbleSort.exe
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\SortArrayUsingBubbleSort\obj\Debug\SortArrayUsingBubbleSort.pdb

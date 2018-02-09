@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.deps.json
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.runtimeconfig.json
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.runtimeconfig.dev.json
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.dll
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.pdb
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.AssemblyInfo.cs
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.dll
+C:\Users\pc\source\repos\DemoDictionary\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.pdb

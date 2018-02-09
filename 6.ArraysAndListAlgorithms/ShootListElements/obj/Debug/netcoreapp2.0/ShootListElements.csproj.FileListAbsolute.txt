@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\bin\Debug\netcoreapp2.0\ShootListElements.deps.json
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\bin\Debug\netcoreapp2.0\ShootListElements.runtimeconfig.json
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\bin\Debug\netcoreapp2.0\ShootListElements.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\bin\Debug\netcoreapp2.0\ShootListElements.dll
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\bin\Debug\netcoreapp2.0\ShootListElements.pdb
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.AssemblyInfo.cs
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.dll
+C:\Users\pc\source\repos\ArraysAndListAlgorithms\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.pdb

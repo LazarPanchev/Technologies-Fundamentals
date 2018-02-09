@@ -1,30 +1,39 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-class Program
+﻿namespace BombNumbers2
 {
-    static void Main()
+    using System;
+    using System.Linq;
+    using System.Collections.Generic;
+
+    public class Program
     {
-        List<int> sequence = Console.ReadLine().Split().Select(int.Parse).ToList();
-
-        string[] input = Console.ReadLine().Split();
-
-        int bomb = int.Parse(input[0]);
-        int power = int.Parse(input[1]);
-
-        for (int i = 0; i < sequence.Count; i++)
+        public static void Main()
         {
-            if (sequence[i] == bomb)
+            var numbers = Console.ReadLine()
+                .Split(' ')
+                .Select(int.Parse)
+                .ToList();
+
+            var bombArgs= Console.ReadLine()
+                .Split(' ')
+                .Select(int.Parse)
+                .ToList();
+
+            for (int i = 0; i < numbers.Count; i++)
             {
-                int left = Math.Max(i - power, 0);
+                if(numbers[i]==bombArgs[0])
+                {
+                    for (int j = i-bombArgs[1]; j <=bombArgs[1] +i; j++)
+                    {
+                        if(j>=0 && j<=numbers.Count-1)
+                        {
+                            numbers[j] = 0;
+                        }
 
-                int right = Math.Min(i + power, sequence.Count - 1);
-
-                int lenght = right - left + 1;
-                sequence.RemoveRange(left, lenght);
-                i = 0;
+                    }
+                }
             }
+
+            Console.WriteLine(numbers.Sum());
         }
-        Console.WriteLine(sequence.Sum());
     }
 }

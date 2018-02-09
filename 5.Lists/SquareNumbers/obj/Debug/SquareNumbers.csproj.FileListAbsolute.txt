@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Lists\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+C:\Users\pc\source\repos\Lists\SquareNumbers\bin\Debug\SquareNumbers.exe
+C:\Users\pc\source\repos\Lists\SquareNumbers\bin\Debug\SquareNumbers.pdb
+C:\Users\pc\source\repos\Lists\SquareNumbers\obj\Debug\SquareNumbers.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Lists\SquareNumbers\obj\Debug\SquareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lists\SquareNumbers\obj\Debug\SquareNumbers.exe
+C:\Users\pc\source\repos\Lists\SquareNumbers\obj\Debug\SquareNumbers.pdb

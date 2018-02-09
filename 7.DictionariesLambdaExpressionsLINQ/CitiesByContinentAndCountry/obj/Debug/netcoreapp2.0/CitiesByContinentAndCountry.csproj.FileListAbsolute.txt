@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.0\CitiesByContinentAndCountry.deps.json
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.0\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.0\CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.0\CitiesByContinentAndCountry.dll
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.0\CitiesByContinentAndCountry.pdb
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.0\CitiesByContinentAndCountry.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.0\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.0\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.0\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.0\CitiesByContinentAndCountry.dll
+C:\Users\pc\source\repos\DemoDictionary\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.0\CitiesByContinentAndCountry.pdb

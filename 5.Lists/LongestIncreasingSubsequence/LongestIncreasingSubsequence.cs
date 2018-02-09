@@ -8,6 +8,28 @@
     {
         public static void Main()
         {
+<<<<<<< HEAD
+            List<int> input =Console.ReadLine()
+                .Split(new char[] {' '}, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToList();
+
+            int n = input.Count;
+            int[] len = new int[n];
+            int[] prev = new int[1];
+
+            int left = 0;
+            for (int i = 1; i < n; i++)
+            {
+                len[i] = 1 + len[left];
+                prev[i] = left;
+            }
+
+
+
+
+
+=======
             List<int> numbers = Console.ReadLine()
                 .Split()
                 .Select(int.Parse)
@@ -50,6 +72,7 @@
             longesSubSeq.Reverse();
 
             Console.WriteLine(string.Join(" ", longesSubSeq));
+>>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
         }
     }
 }

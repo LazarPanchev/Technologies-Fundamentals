@@ -1,7 +1,0 @@
-C:\Users\Lazar\source\repos\Lists\BombNumbers\obj\Debug\BombNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Lazar\source\repos\Lists\BombNumbers\obj\Debug\BombNumbers.csproj.CoreCompileInputs.cache
-C:\Users\Lazar\source\repos\Lists\BombNumbers\bin\Debug\BombNumbers.exe.config
-C:\Users\Lazar\source\repos\Lists\BombNumbers\bin\Debug\BombNumbers.exe
-C:\Users\Lazar\source\repos\Lists\BombNumbers\bin\Debug\BombNumbers.pdb
-C:\Users\Lazar\source\repos\Lists\BombNumbers\obj\Debug\BombNumbers.exe
-C:\Users\Lazar\source\repos\Lists\BombNumbers\obj\Debug\BombNumbers.pdb
