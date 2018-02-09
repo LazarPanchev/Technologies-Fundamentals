@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\PopulationCounter\bin\Debug\netcoreapp1.1\PopulationCounter.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\PopulationCounter\bin\Debug\netcoreapp1.1\PopulationCounter.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\PopulationCounter\bin\Debug\netcoreapp1.1\PopulationCounter.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\PopulationCounter\bin\Debug\netcoreapp1.1\PopulationCounter.dll
+C:\Users\Lazar\source\repos\Dictionaries\PopulationCounter\bin\Debug\netcoreapp1.1\PopulationCounter.pdb
+C:\Users\Lazar\source\repos\Dictionaries\PopulationCounter\obj\Debug\netcoreapp1.1\PopulationCounter.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\PopulationCounter\obj\Debug\netcoreapp1.1\PopulationCounter.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\PopulationCounter\obj\Debug\netcoreapp1.1\PopulationCounter.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\PopulationCounter\obj\Debug\netcoreapp1.1\PopulationCounter.dll
+C:\Users\Lazar\source\repos\Dictionaries\PopulationCounter\obj\Debug\netcoreapp1.1\PopulationCounter.pdb

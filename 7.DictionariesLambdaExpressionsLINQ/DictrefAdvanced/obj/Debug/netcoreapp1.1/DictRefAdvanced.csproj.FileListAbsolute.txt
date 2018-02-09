@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\DictRefAdvanced\bin\Debug\netcoreapp1.1\DictRefAdvanced.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\DictRefAdvanced\bin\Debug\netcoreapp1.1\DictRefAdvanced.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\DictRefAdvanced\bin\Debug\netcoreapp1.1\DictRefAdvanced.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\DictRefAdvanced\bin\Debug\netcoreapp1.1\DictRefAdvanced.dll
+C:\Users\Lazar\source\repos\Dictionaries\DictRefAdvanced\bin\Debug\netcoreapp1.1\DictRefAdvanced.pdb
+C:\Users\Lazar\source\repos\Dictionaries\DictRefAdvanced\obj\Debug\netcoreapp1.1\DictRefAdvanced.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\DictRefAdvanced\obj\Debug\netcoreapp1.1\DictRefAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\DictRefAdvanced\obj\Debug\netcoreapp1.1\DictRefAdvanced.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\DictRefAdvanced\obj\Debug\netcoreapp1.1\DictRefAdvanced.dll
+C:\Users\Lazar\source\repos\Dictionaries\DictRefAdvanced\obj\Debug\netcoreapp1.1\DictRefAdvanced.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\LogsAggregator\bin\Debug\netcoreapp1.1\LogsAggregator.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\LogsAggregator\bin\Debug\netcoreapp1.1\LogsAggregator.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\LogsAggregator\bin\Debug\netcoreapp1.1\LogsAggregator.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\LogsAggregator\bin\Debug\netcoreapp1.1\LogsAggregator.dll
+C:\Users\Lazar\source\repos\Dictionaries\LogsAggregator\bin\Debug\netcoreapp1.1\LogsAggregator.pdb
+C:\Users\Lazar\source\repos\Dictionaries\LogsAggregator\obj\Debug\netcoreapp1.1\LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\LogsAggregator\obj\Debug\netcoreapp1.1\LogsAggregator.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\LogsAggregator\obj\Debug\netcoreapp1.1\LogsAggregator.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\LogsAggregator\obj\Debug\netcoreapp1.1\LogsAggregator.dll
+C:\Users\Lazar\source\repos\Dictionaries\LogsAggregator\obj\Debug\netcoreapp1.1\LogsAggregator.pdb

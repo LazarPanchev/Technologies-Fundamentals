@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\Dect-Ref-Advanced\bin\Debug\netcoreapp1.1\Dect-Ref-Advanced.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\Dect-Ref-Advanced\bin\Debug\netcoreapp1.1\Dect-Ref-Advanced.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\Dect-Ref-Advanced\bin\Debug\netcoreapp1.1\Dect-Ref-Advanced.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\Dect-Ref-Advanced\bin\Debug\netcoreapp1.1\Dect-Ref-Advanced.dll
+C:\Users\Lazar\source\repos\Dictionaries\Dect-Ref-Advanced\bin\Debug\netcoreapp1.1\Dect-Ref-Advanced.pdb
+C:\Users\Lazar\source\repos\Dictionaries\Dect-Ref-Advanced\obj\Debug\netcoreapp1.1\Dect-Ref-Advanced.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\Dect-Ref-Advanced\obj\Debug\netcoreapp1.1\Dect-Ref-Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\Dect-Ref-Advanced\obj\Debug\netcoreapp1.1\Dect-Ref-Advanced.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\Dect-Ref-Advanced\obj\Debug\netcoreapp1.1\Dect-Ref-Advanced.dll
+C:\Users\Lazar\source\repos\Dictionaries\Dect-Ref-Advanced\obj\Debug\netcoreapp1.1\Dect-Ref-Advanced.pdb

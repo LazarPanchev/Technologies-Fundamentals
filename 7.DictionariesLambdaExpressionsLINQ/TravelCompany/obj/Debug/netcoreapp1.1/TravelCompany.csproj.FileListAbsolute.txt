@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\TravelCompany\bin\Debug\netcoreapp1.1\TravelCompany.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\TravelCompany\bin\Debug\netcoreapp1.1\TravelCompany.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\TravelCompany\bin\Debug\netcoreapp1.1\TravelCompany.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\TravelCompany\bin\Debug\netcoreapp1.1\TravelCompany.dll
+C:\Users\Lazar\source\repos\Dictionaries\TravelCompany\bin\Debug\netcoreapp1.1\TravelCompany.pdb
+C:\Users\Lazar\source\repos\Dictionaries\TravelCompany\obj\Debug\netcoreapp1.1\TravelCompany.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\TravelCompany\obj\Debug\netcoreapp1.1\TravelCompany.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\TravelCompany\obj\Debug\netcoreapp1.1\TravelCompany.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\TravelCompany\obj\Debug\netcoreapp1.1\TravelCompany.dll
+C:\Users\Lazar\source\repos\Dictionaries\TravelCompany\obj\Debug\netcoreapp1.1\TravelCompany.pdb

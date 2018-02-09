@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\MixedPhones\bin\Debug\netcoreapp1.1\MixedPhones.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\MixedPhones\bin\Debug\netcoreapp1.1\MixedPhones.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\MixedPhones\bin\Debug\netcoreapp1.1\MixedPhones.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\MixedPhones\bin\Debug\netcoreapp1.1\MixedPhones.dll
+C:\Users\Lazar\source\repos\Dictionaries\MixedPhones\bin\Debug\netcoreapp1.1\MixedPhones.pdb
+C:\Users\Lazar\source\repos\Dictionaries\MixedPhones\obj\Debug\netcoreapp1.1\MixedPhones.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\MixedPhones\obj\Debug\netcoreapp1.1\MixedPhones.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\MixedPhones\obj\Debug\netcoreapp1.1\MixedPhones.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\MixedPhones\obj\Debug\netcoreapp1.1\MixedPhones.dll
+C:\Users\Lazar\source\repos\Dictionaries\MixedPhones\obj\Debug\netcoreapp1.1\MixedPhones.pdb

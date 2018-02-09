@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\FilterBase\bin\Debug\netcoreapp1.1\FilterBase.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\FilterBase\bin\Debug\netcoreapp1.1\FilterBase.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\FilterBase\bin\Debug\netcoreapp1.1\FilterBase.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\FilterBase\bin\Debug\netcoreapp1.1\FilterBase.dll
+C:\Users\Lazar\source\repos\Dictionaries\FilterBase\bin\Debug\netcoreapp1.1\FilterBase.pdb
+C:\Users\Lazar\source\repos\Dictionaries\FilterBase\obj\Debug\netcoreapp1.1\FilterBase.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\FilterBase\obj\Debug\netcoreapp1.1\FilterBase.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\FilterBase\obj\Debug\netcoreapp1.1\FilterBase.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\FilterBase\obj\Debug\netcoreapp1.1\FilterBase.dll
+C:\Users\Lazar\source\repos\Dictionaries\FilterBase\obj\Debug\netcoreapp1.1\FilterBase.pdb

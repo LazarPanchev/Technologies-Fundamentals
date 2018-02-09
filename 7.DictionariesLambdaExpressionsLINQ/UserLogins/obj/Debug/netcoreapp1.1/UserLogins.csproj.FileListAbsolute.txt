@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\UserLogins\bin\Debug\netcoreapp1.1\UserLogins.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\UserLogins\bin\Debug\netcoreapp1.1\UserLogins.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\UserLogins\bin\Debug\netcoreapp1.1\UserLogins.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\UserLogins\bin\Debug\netcoreapp1.1\UserLogins.dll
+C:\Users\Lazar\source\repos\Dictionaries\UserLogins\bin\Debug\netcoreapp1.1\UserLogins.pdb
+C:\Users\Lazar\source\repos\Dictionaries\UserLogins\obj\Debug\netcoreapp1.1\UserLogins.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\UserLogins\obj\Debug\netcoreapp1.1\UserLogins.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\UserLogins\obj\Debug\netcoreapp1.1\UserLogins.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\UserLogins\obj\Debug\netcoreapp1.1\UserLogins.dll
+C:\Users\Lazar\source\repos\Dictionaries\UserLogins\obj\Debug\netcoreapp1.1\UserLogins.pdb

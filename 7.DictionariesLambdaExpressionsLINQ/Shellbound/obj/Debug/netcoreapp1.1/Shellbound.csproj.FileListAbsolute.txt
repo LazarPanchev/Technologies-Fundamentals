@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\Shellbound\bin\Debug\netcoreapp1.1\Shellbound.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\Shellbound\bin\Debug\netcoreapp1.1\Shellbound.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\Shellbound\bin\Debug\netcoreapp1.1\Shellbound.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\Shellbound\bin\Debug\netcoreapp1.1\Shellbound.dll
+C:\Users\Lazar\source\repos\Dictionaries\Shellbound\bin\Debug\netcoreapp1.1\Shellbound.pdb
+C:\Users\Lazar\source\repos\Dictionaries\Shellbound\obj\Debug\netcoreapp1.1\Shellbound.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\Shellbound\obj\Debug\netcoreapp1.1\Shellbound.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\Shellbound\obj\Debug\netcoreapp1.1\Shellbound.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\Shellbound\obj\Debug\netcoreapp1.1\Shellbound.dll
+C:\Users\Lazar\source\repos\Dictionaries\Shellbound\obj\Debug\netcoreapp1.1\Shellbound.pdb

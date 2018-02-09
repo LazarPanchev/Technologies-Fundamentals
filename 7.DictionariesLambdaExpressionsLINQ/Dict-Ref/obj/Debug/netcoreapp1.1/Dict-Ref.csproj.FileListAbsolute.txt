@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\Dict-Ref\bin\Debug\netcoreapp1.1\Dict-Ref.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\Dict-Ref\bin\Debug\netcoreapp1.1\Dict-Ref.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\Dict-Ref\bin\Debug\netcoreapp1.1\Dict-Ref.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\Dict-Ref\obj\Debug\netcoreapp1.1\Dict-Ref.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\Dict-Ref\obj\Debug\netcoreapp1.1\Dict-Ref.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\Dict-Ref\obj\Debug\netcoreapp1.1\Dict-Ref.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\Dict-Ref\bin\Debug\netcoreapp1.1\Dict-Ref.dll
+C:\Users\Lazar\source\repos\Dictionaries\Dict-Ref\bin\Debug\netcoreapp1.1\Dict-Ref.pdb
+C:\Users\Lazar\source\repos\Dictionaries\Dict-Ref\obj\Debug\netcoreapp1.1\Dict-Ref.dll
+C:\Users\Lazar\source\repos\Dictionaries\Dict-Ref\obj\Debug\netcoreapp1.1\Dict-Ref.pdb

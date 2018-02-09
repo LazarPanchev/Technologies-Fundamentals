@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\LetterRepetition\bin\Debug\netcoreapp1.1\LetterRepetition.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\LetterRepetition\bin\Debug\netcoreapp1.1\LetterRepetition.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\LetterRepetition\bin\Debug\netcoreapp1.1\LetterRepetition.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\LetterRepetition\bin\Debug\netcoreapp1.1\LetterRepetition.dll
+C:\Users\Lazar\source\repos\Dictionaries\LetterRepetition\bin\Debug\netcoreapp1.1\LetterRepetition.pdb
+C:\Users\Lazar\source\repos\Dictionaries\LetterRepetition\obj\Debug\netcoreapp1.1\LetterRepetition.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\LetterRepetition\obj\Debug\netcoreapp1.1\LetterRepetition.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\LetterRepetition\obj\Debug\netcoreapp1.1\LetterRepetition.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\LetterRepetition\obj\Debug\netcoreapp1.1\LetterRepetition.dll
+C:\Users\Lazar\source\repos\Dictionaries\LetterRepetition\obj\Debug\netcoreapp1.1\LetterRepetition.pdb

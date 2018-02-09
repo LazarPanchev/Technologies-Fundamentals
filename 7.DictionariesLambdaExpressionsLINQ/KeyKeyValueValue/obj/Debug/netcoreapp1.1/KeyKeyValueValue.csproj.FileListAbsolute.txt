@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\Dictionaries\KeyKeyValueValue\bin\Debug\netcoreapp1.1\KeyKeyValueValue.deps.json
+C:\Users\Lazar\source\repos\Dictionaries\KeyKeyValueValue\bin\Debug\netcoreapp1.1\KeyKeyValueValue.runtimeconfig.json
+C:\Users\Lazar\source\repos\Dictionaries\KeyKeyValueValue\bin\Debug\netcoreapp1.1\KeyKeyValueValue.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\Dictionaries\KeyKeyValueValue\bin\Debug\netcoreapp1.1\KeyKeyValueValue.dll
+C:\Users\Lazar\source\repos\Dictionaries\KeyKeyValueValue\bin\Debug\netcoreapp1.1\KeyKeyValueValue.pdb
+C:\Users\Lazar\source\repos\Dictionaries\KeyKeyValueValue\obj\Debug\netcoreapp1.1\KeyKeyValueValue.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\Dictionaries\KeyKeyValueValue\obj\Debug\netcoreapp1.1\KeyKeyValueValue.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\Dictionaries\KeyKeyValueValue\obj\Debug\netcoreapp1.1\KeyKeyValueValue.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\Dictionaries\KeyKeyValueValue\obj\Debug\netcoreapp1.1\KeyKeyValueValue.dll
+C:\Users\Lazar\source\repos\Dictionaries\KeyKeyValueValue\obj\Debug\netcoreapp1.1\KeyKeyValueValue.pdb
