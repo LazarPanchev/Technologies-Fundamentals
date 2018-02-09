@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\bin\Debug\netcoreapp2.0\DictrefAdvanced.deps.json
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\bin\Debug\netcoreapp2.0\DictrefAdvanced.runtimeconfig.json
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\bin\Debug\netcoreapp2.0\DictrefAdvanced.runtimeconfig.dev.json
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\bin\Debug\netcoreapp2.0\DictrefAdvanced.dll
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\bin\Debug\netcoreapp2.0\DictrefAdvanced.pdb
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\obj\Debug\netcoreapp2.0\DictrefAdvanced.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\obj\Debug\netcoreapp2.0\DictrefAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\obj\Debug\netcoreapp2.0\DictrefAdvanced.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\obj\Debug\netcoreapp2.0\DictrefAdvanced.AssemblyInfo.cs
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\obj\Debug\netcoreapp2.0\DictrefAdvanced.dll
+C:\Users\pc\source\repos\DemoDictionary\DictrefAdvanced\obj\Debug\netcoreapp2.0\DictrefAdvanced.pdb

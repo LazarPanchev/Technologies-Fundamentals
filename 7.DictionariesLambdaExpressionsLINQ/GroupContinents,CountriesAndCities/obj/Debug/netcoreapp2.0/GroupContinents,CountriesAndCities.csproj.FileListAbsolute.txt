@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\obj\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\obj\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\obj\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\obj\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.AssemblyInfo.cs
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\bin\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.deps.json
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\bin\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.runtimeconfig.json
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\bin\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.runtimeconfig.dev.json
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\bin\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.dll
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\bin\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.pdb
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\obj\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.dll
+C:\Users\pc\source\repos\DemoDictionary\GroupContinents,CountriesAndCities\obj\Debug\netcoreapp2.0\GroupContinents,CountriesAndCities.pdb

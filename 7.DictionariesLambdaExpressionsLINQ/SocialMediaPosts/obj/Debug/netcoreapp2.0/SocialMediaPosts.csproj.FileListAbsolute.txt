@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\bin\Debug\netcoreapp2.0\SocialMediaPosts.deps.json
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\bin\Debug\netcoreapp2.0\SocialMediaPosts.runtimeconfig.json
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\bin\Debug\netcoreapp2.0\SocialMediaPosts.runtimeconfig.dev.json
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\bin\Debug\netcoreapp2.0\SocialMediaPosts.dll
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\bin\Debug\netcoreapp2.0\SocialMediaPosts.pdb
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\obj\Debug\netcoreapp2.0\SocialMediaPosts.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\obj\Debug\netcoreapp2.0\SocialMediaPosts.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\obj\Debug\netcoreapp2.0\SocialMediaPosts.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\obj\Debug\netcoreapp2.0\SocialMediaPosts.AssemblyInfo.cs
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\obj\Debug\netcoreapp2.0\SocialMediaPosts.dll
+C:\Users\pc\source\repos\DemoDictionary\SocialMediaPosts\obj\Debug\netcoreapp2.0\SocialMediaPosts.pdb

@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\bin\Debug\netcoreapp2.0\RecordUniqueNames.deps.json
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\bin\Debug\netcoreapp2.0\RecordUniqueNames.runtimeconfig.json
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\bin\Debug\netcoreapp2.0\RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\bin\Debug\netcoreapp2.0\RecordUniqueNames.dll
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\bin\Debug\netcoreapp2.0\RecordUniqueNames.pdb
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\obj\Debug\netcoreapp2.0\RecordUniqueNames.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\obj\Debug\netcoreapp2.0\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\obj\Debug\netcoreapp2.0\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\obj\Debug\netcoreapp2.0\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\obj\Debug\netcoreapp2.0\RecordUniqueNames.dll
+C:\Users\pc\source\repos\DemoDictionary\RecordUniquenames\obj\Debug\netcoreapp2.0\RecordUniqueNames.pdb
