@@ -1,0 +1,9 @@
+C:\Users\Lazar\source\repos\RegularExpressions\EmailMe\bin\Debug\netcoreapp1.1\EmailMe.deps.json
+C:\Users\Lazar\source\repos\RegularExpressions\EmailMe\bin\Debug\netcoreapp1.1\EmailMe.runtimeconfig.json
+C:\Users\Lazar\source\repos\RegularExpressions\EmailMe\bin\Debug\netcoreapp1.1\EmailMe.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\RegularExpressions\EmailMe\bin\Debug\netcoreapp1.1\EmailMe.dll
+C:\Users\Lazar\source\repos\RegularExpressions\EmailMe\bin\Debug\netcoreapp1.1\EmailMe.pdb
+C:\Users\Lazar\source\repos\RegularExpressions\EmailMe\obj\Debug\netcoreapp1.1\EmailMe.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\RegularExpressions\EmailMe\obj\Debug\netcoreapp1.1\EmailMe.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\RegularExpressions\EmailMe\obj\Debug\netcoreapp1.1\EmailMe.dll
+C:\Users\Lazar\source\repos\RegularExpressions\EmailMe\obj\Debug\netcoreapp1.1\EmailMe.pdb

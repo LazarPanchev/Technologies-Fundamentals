@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.deps.json
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.runtimeconfig.json
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.dll
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.pdb
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.dll
+C:\Users\pc\source\repos\ExamPreparation\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.pdb

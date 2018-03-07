@@ -1,0 +1,10 @@
+c:\users\lazar\source\repos\StringAndTextProcessing\ConvertFromBaseNtoBase10\bin\Debug\netcoreapp1.1\ConvertFromBaseNtoBase10.deps.json
+c:\users\lazar\source\repos\StringAndTextProcessing\ConvertFromBaseNtoBase10\bin\Debug\netcoreapp1.1\ConvertFromBaseNtoBase10.runtimeconfig.json
+c:\users\lazar\source\repos\StringAndTextProcessing\ConvertFromBaseNtoBase10\bin\Debug\netcoreapp1.1\ConvertFromBaseNtoBase10.runtimeconfig.dev.json
+c:\users\lazar\source\repos\StringAndTextProcessing\ConvertFromBaseNtoBase10\bin\Debug\netcoreapp1.1\ConvertFromBaseNtoBase10.dll
+c:\users\lazar\source\repos\StringAndTextProcessing\ConvertFromBaseNtoBase10\bin\Debug\netcoreapp1.1\ConvertFromBaseNtoBase10.pdb
+c:\users\lazar\source\repos\StringAndTextProcessing\ConvertFromBaseNtoBase10\obj\Debug\netcoreapp1.1\ConvertFromBaseNtoBase10.csprojResolveAssemblyReference.cache
+c:\users\lazar\source\repos\StringAndTextProcessing\ConvertFromBaseNtoBase10\obj\Debug\netcoreapp1.1\ConvertFromBaseNtoBase10.csproj.CoreCompileInputs.cache
+c:\users\lazar\source\repos\StringAndTextProcessing\ConvertFromBaseNtoBase10\obj\Debug\netcoreapp1.1\ConvertFromBaseNtoBase10.AssemblyInfo.cs
+c:\users\lazar\source\repos\StringAndTextProcessing\ConvertFromBaseNtoBase10\obj\Debug\netcoreapp1.1\ConvertFromBaseNtoBase10.dll
+c:\users\lazar\source\repos\StringAndTextProcessing\ConvertFromBaseNtoBase10\obj\Debug\netcoreapp1.1\ConvertFromBaseNtoBase10.pdb

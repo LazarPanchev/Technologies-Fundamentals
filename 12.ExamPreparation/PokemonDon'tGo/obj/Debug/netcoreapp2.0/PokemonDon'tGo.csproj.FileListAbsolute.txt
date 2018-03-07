@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\bin\Debug\netcoreapp2.0\PokemonDon'tGo.deps.json
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\bin\Debug\netcoreapp2.0\PokemonDon'tGo.runtimeconfig.json
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\bin\Debug\netcoreapp2.0\PokemonDon'tGo.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\bin\Debug\netcoreapp2.0\PokemonDon'tGo.dll
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\bin\Debug\netcoreapp2.0\PokemonDon'tGo.pdb
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\obj\Debug\netcoreapp2.0\PokemonDon'tGo.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\obj\Debug\netcoreapp2.0\PokemonDon'tGo.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\obj\Debug\netcoreapp2.0\PokemonDon'tGo.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\obj\Debug\netcoreapp2.0\PokemonDon'tGo.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\obj\Debug\netcoreapp2.0\PokemonDon'tGo.dll
+C:\Users\pc\source\repos\ExamPreparation\PokemonDon'tGo\obj\Debug\netcoreapp2.0\PokemonDon'tGo.pdb

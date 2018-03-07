@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\RegularExpressions\KarateStrings\bin\Debug\netcoreapp1.1\KarateStrings.deps.json
+C:\Users\Lazar\source\repos\RegularExpressions\KarateStrings\bin\Debug\netcoreapp1.1\KarateStrings.runtimeconfig.json
+C:\Users\Lazar\source\repos\RegularExpressions\KarateStrings\bin\Debug\netcoreapp1.1\KarateStrings.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\RegularExpressions\KarateStrings\bin\Debug\netcoreapp1.1\KarateStrings.dll
+C:\Users\Lazar\source\repos\RegularExpressions\KarateStrings\bin\Debug\netcoreapp1.1\KarateStrings.pdb
+C:\Users\Lazar\source\repos\RegularExpressions\KarateStrings\obj\Debug\netcoreapp1.1\KarateStrings.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\RegularExpressions\KarateStrings\obj\Debug\netcoreapp1.1\KarateStrings.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\RegularExpressions\KarateStrings\obj\Debug\netcoreapp1.1\KarateStrings.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\RegularExpressions\KarateStrings\obj\Debug\netcoreapp1.1\KarateStrings.dll
+C:\Users\Lazar\source\repos\RegularExpressions\KarateStrings\obj\Debug\netcoreapp1.1\KarateStrings.pdb

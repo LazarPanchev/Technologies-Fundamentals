@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\bin\Debug\netcoreapp2.0\UseYourChainsBuddy.deps.json
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\bin\Debug\netcoreapp2.0\UseYourChainsBuddy.runtimeconfig.json
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\bin\Debug\netcoreapp2.0\UseYourChainsBuddy.runtimeconfig.dev.json
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\bin\Debug\netcoreapp2.0\UseYourChainsBuddy.dll
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\bin\Debug\netcoreapp2.0\UseYourChainsBuddy.pdb
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\obj\Debug\netcoreapp2.0\UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\obj\Debug\netcoreapp2.0\UseYourChainsBuddy.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\obj\Debug\netcoreapp2.0\UseYourChainsBuddy.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\obj\Debug\netcoreapp2.0\UseYourChainsBuddy.AssemblyInfo.cs
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\obj\Debug\netcoreapp2.0\UseYourChainsBuddy.dll
+C:\Users\pc\source\repos\RegularExpressions\UseYourChainsBuddy\obj\Debug\netcoreapp2.0\UseYourChainsBuddy.pdb

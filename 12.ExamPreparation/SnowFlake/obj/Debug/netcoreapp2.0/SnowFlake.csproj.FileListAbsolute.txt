@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\bin\Debug\netcoreapp2.0\SnowFlake.deps.json
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\bin\Debug\netcoreapp2.0\SnowFlake.runtimeconfig.json
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\bin\Debug\netcoreapp2.0\SnowFlake.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\bin\Debug\netcoreapp2.0\SnowFlake.dll
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\bin\Debug\netcoreapp2.0\SnowFlake.pdb
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\obj\Debug\netcoreapp2.0\SnowFlake.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\obj\Debug\netcoreapp2.0\SnowFlake.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\obj\Debug\netcoreapp2.0\SnowFlake.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\obj\Debug\netcoreapp2.0\SnowFlake.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\obj\Debug\netcoreapp2.0\SnowFlake.dll
+C:\Users\pc\source\repos\ExamPreparation\SnowFlake\obj\Debug\netcoreapp2.0\SnowFlake.pdb

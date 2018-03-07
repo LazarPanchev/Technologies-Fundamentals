@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ExamPreparation\RageQuit\bin\Debug\netcoreapp1.1\RageQuit.deps.json
+C:\Users\Lazar\source\repos\ExamPreparation\RageQuit\bin\Debug\netcoreapp1.1\RageQuit.runtimeconfig.json
+C:\Users\Lazar\source\repos\ExamPreparation\RageQuit\bin\Debug\netcoreapp1.1\RageQuit.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ExamPreparation\RageQuit\bin\Debug\netcoreapp1.1\RageQuit.dll
+C:\Users\Lazar\source\repos\ExamPreparation\RageQuit\bin\Debug\netcoreapp1.1\RageQuit.pdb
+C:\Users\Lazar\source\repos\ExamPreparation\RageQuit\obj\Debug\netcoreapp1.1\RageQuit.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ExamPreparation\RageQuit\obj\Debug\netcoreapp1.1\RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ExamPreparation\RageQuit\obj\Debug\netcoreapp1.1\RageQuit.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ExamPreparation\RageQuit\obj\Debug\netcoreapp1.1\RageQuit.dll
+C:\Users\Lazar\source\repos\ExamPreparation\RageQuit\obj\Debug\netcoreapp1.1\RageQuit.pdb

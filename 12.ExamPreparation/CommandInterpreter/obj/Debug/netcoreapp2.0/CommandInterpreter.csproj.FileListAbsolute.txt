@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\bin\Debug\netcoreapp2.0\CommandInterpreter.deps.json
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\bin\Debug\netcoreapp2.0\CommandInterpreter.runtimeconfig.json
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\bin\Debug\netcoreapp2.0\CommandInterpreter.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\bin\Debug\netcoreapp2.0\CommandInterpreter.dll
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\bin\Debug\netcoreapp2.0\CommandInterpreter.pdb
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.0\CommandInterpreter.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.0\CommandInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.0\CommandInterpreter.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.0\CommandInterpreter.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.0\CommandInterpreter.dll
+C:\Users\pc\source\repos\ExamPreparation\CommandInterpreter\obj\Debug\netcoreapp2.0\CommandInterpreter.pdb

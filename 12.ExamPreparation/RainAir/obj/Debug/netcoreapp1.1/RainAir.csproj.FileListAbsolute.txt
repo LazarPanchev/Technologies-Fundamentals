@@ -1,0 +1,10 @@
+c:\users\lazar\source\repos\ExamPreparation\RainAir\bin\Debug\netcoreapp1.1\RainAir.deps.json
+c:\users\lazar\source\repos\ExamPreparation\RainAir\bin\Debug\netcoreapp1.1\RainAir.runtimeconfig.json
+c:\users\lazar\source\repos\ExamPreparation\RainAir\bin\Debug\netcoreapp1.1\RainAir.runtimeconfig.dev.json
+c:\users\lazar\source\repos\ExamPreparation\RainAir\bin\Debug\netcoreapp1.1\RainAir.dll
+c:\users\lazar\source\repos\ExamPreparation\RainAir\bin\Debug\netcoreapp1.1\RainAir.pdb
+c:\users\lazar\source\repos\ExamPreparation\RainAir\obj\Debug\netcoreapp1.1\RainAir.csprojResolveAssemblyReference.cache
+c:\users\lazar\source\repos\ExamPreparation\RainAir\obj\Debug\netcoreapp1.1\RainAir.csproj.CoreCompileInputs.cache
+c:\users\lazar\source\repos\ExamPreparation\RainAir\obj\Debug\netcoreapp1.1\RainAir.AssemblyInfo.cs
+c:\users\lazar\source\repos\ExamPreparation\RainAir\obj\Debug\netcoreapp1.1\RainAir.dll
+c:\users\lazar\source\repos\ExamPreparation\RainAir\obj\Debug\netcoreapp1.1\RainAir.pdb

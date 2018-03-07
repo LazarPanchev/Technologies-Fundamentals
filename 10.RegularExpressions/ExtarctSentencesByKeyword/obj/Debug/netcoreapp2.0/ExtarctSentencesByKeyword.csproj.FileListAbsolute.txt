@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.deps.json
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.runtimeconfig.json
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.runtimeconfig.dev.json
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.dll
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.pdb
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.AssemblyInfo.cs
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.dll
+C:\Users\pc\source\repos\RegularExpressions\ExtarctSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtarctSentencesByKeyword.pdb

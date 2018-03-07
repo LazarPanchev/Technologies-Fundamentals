@@ -1,0 +1,9 @@
+c:\users\lazar\source\repos\RegularExpressions\MatchHexadecimalNumbers\bin\Debug\netcoreapp1.1\MatchHexadecimalNumbers.deps.json
+c:\users\lazar\source\repos\RegularExpressions\MatchHexadecimalNumbers\bin\Debug\netcoreapp1.1\MatchHexadecimalNumbers.runtimeconfig.json
+c:\users\lazar\source\repos\RegularExpressions\MatchHexadecimalNumbers\bin\Debug\netcoreapp1.1\MatchHexadecimalNumbers.runtimeconfig.dev.json
+c:\users\lazar\source\repos\RegularExpressions\MatchHexadecimalNumbers\bin\Debug\netcoreapp1.1\MatchHexadecimalNumbers.dll
+c:\users\lazar\source\repos\RegularExpressions\MatchHexadecimalNumbers\bin\Debug\netcoreapp1.1\MatchHexadecimalNumbers.pdb
+c:\users\lazar\source\repos\RegularExpressions\MatchHexadecimalNumbers\obj\Debug\netcoreapp1.1\MatchHexadecimalNumbers.csproj.CoreCompileInputs.cache
+c:\users\lazar\source\repos\RegularExpressions\MatchHexadecimalNumbers\obj\Debug\netcoreapp1.1\MatchHexadecimalNumbers.AssemblyInfo.cs
+c:\users\lazar\source\repos\RegularExpressions\MatchHexadecimalNumbers\obj\Debug\netcoreapp1.1\MatchHexadecimalNumbers.dll
+c:\users\lazar\source\repos\RegularExpressions\MatchHexadecimalNumbers\obj\Debug\netcoreapp1.1\MatchHexadecimalNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\ExamPreparation\CoffeeOrders\bin\Debug\netcoreapp2.0\CoffeeOrders.deps.json
+C:\Users\pc\source\repos\ExamPreparation\CoffeeOrders\bin\Debug\netcoreapp2.0\CoffeeOrders.runtimeconfig.json
+C:\Users\pc\source\repos\ExamPreparation\CoffeeOrders\bin\Debug\netcoreapp2.0\CoffeeOrders.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ExamPreparation\CoffeeOrders\bin\Debug\netcoreapp2.0\CoffeeOrders.dll
+C:\Users\pc\source\repos\ExamPreparation\CoffeeOrders\bin\Debug\netcoreapp2.0\CoffeeOrders.pdb
+C:\Users\pc\source\repos\ExamPreparation\CoffeeOrders\obj\Debug\netcoreapp2.0\CoffeeOrders.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\CoffeeOrders\obj\Debug\netcoreapp2.0\CoffeeOrders.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\CoffeeOrders\obj\Debug\netcoreapp2.0\CoffeeOrders.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExamPreparation\CoffeeOrders\obj\Debug\netcoreapp2.0\CoffeeOrders.dll
+C:\Users\pc\source\repos\ExamPreparation\CoffeeOrders\obj\Debug\netcoreapp2.0\CoffeeOrders.pdb

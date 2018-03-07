@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AverageGrades\bin\Debug\netcoreapp1.1\AverageGrades.deps.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AverageGrades\bin\Debug\netcoreapp1.1\AverageGrades.runtimeconfig.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AverageGrades\bin\Debug\netcoreapp1.1\AverageGrades.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AverageGrades\bin\Debug\netcoreapp1.1\AverageGrades.dll
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AverageGrades\bin\Debug\netcoreapp1.1\AverageGrades.pdb
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AverageGrades\obj\Debug\netcoreapp1.1\AverageGrades.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AverageGrades\obj\Debug\netcoreapp1.1\AverageGrades.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AverageGrades\obj\Debug\netcoreapp1.1\AverageGrades.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AverageGrades\obj\Debug\netcoreapp1.1\AverageGrades.dll
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AverageGrades\obj\Debug\netcoreapp1.1\AverageGrades.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp1.1\MatchDates.deps.json
+C:\Users\Lazar\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp1.1\MatchDates.runtimeconfig.json
+C:\Users\Lazar\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp1.1\MatchDates.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp1.1\MatchDates.dll
+C:\Users\Lazar\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp1.1\MatchDates.pdb
+C:\Users\Lazar\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp1.1\MatchDates.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp1.1\MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp1.1\MatchDates.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp1.1\MatchDates.dll
+C:\Users\Lazar\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp1.1\MatchDates.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ExamPreparation\HornetComm\bin\Debug\netcoreapp1.1\HornetComm.deps.json
+C:\Users\Lazar\source\repos\ExamPreparation\HornetComm\bin\Debug\netcoreapp1.1\HornetComm.runtimeconfig.json
+C:\Users\Lazar\source\repos\ExamPreparation\HornetComm\bin\Debug\netcoreapp1.1\HornetComm.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ExamPreparation\HornetComm\bin\Debug\netcoreapp1.1\HornetComm.dll
+C:\Users\Lazar\source\repos\ExamPreparation\HornetComm\bin\Debug\netcoreapp1.1\HornetComm.pdb
+C:\Users\Lazar\source\repos\ExamPreparation\HornetComm\obj\Debug\netcoreapp1.1\HornetComm.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ExamPreparation\HornetComm\obj\Debug\netcoreapp1.1\HornetComm.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ExamPreparation\HornetComm\obj\Debug\netcoreapp1.1\HornetComm.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ExamPreparation\HornetComm\obj\Debug\netcoreapp1.1\HornetComm.dll
+C:\Users\Lazar\source\repos\ExamPreparation\HornetComm\obj\Debug\netcoreapp1.1\HornetComm.pdb

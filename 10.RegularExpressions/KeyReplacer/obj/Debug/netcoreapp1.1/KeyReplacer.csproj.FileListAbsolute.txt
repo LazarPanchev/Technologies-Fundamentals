@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\RegularExpressions\KeyReplacer\bin\Debug\netcoreapp1.1\KeyReplacer.deps.json
+C:\Users\Lazar\source\repos\RegularExpressions\KeyReplacer\bin\Debug\netcoreapp1.1\KeyReplacer.runtimeconfig.json
+C:\Users\Lazar\source\repos\RegularExpressions\KeyReplacer\bin\Debug\netcoreapp1.1\KeyReplacer.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\RegularExpressions\KeyReplacer\bin\Debug\netcoreapp1.1\KeyReplacer.dll
+C:\Users\Lazar\source\repos\RegularExpressions\KeyReplacer\bin\Debug\netcoreapp1.1\KeyReplacer.pdb
+C:\Users\Lazar\source\repos\RegularExpressions\KeyReplacer\obj\Debug\netcoreapp1.1\KeyReplacer.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\RegularExpressions\KeyReplacer\obj\Debug\netcoreapp1.1\KeyReplacer.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\RegularExpressions\KeyReplacer\obj\Debug\netcoreapp1.1\KeyReplacer.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\RegularExpressions\KeyReplacer\obj\Debug\netcoreapp1.1\KeyReplacer.dll
+C:\Users\Lazar\source\repos\RegularExpressions\KeyReplacer\obj\Debug\netcoreapp1.1\KeyReplacer.pdb

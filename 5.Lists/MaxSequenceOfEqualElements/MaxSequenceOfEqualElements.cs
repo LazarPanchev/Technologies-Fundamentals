@@ -1,87 +1,48 @@
-﻿namespace MaxSequenceOfEqualElements
+﻿namespace LastKNumberSum
 {
     using System;
     using System.Linq;
     using System.Collections.Generic;
-
-    public class MaxSequenceOfEqualElements
+    public class LastKNUmberSum
     {
         public static void Main()
         {
-<<<<<<< HEAD
-            List<int> nums = Console.ReadLine()
-                .Split(new char[] { ' ' })
-                .Select(int.Parse)
-                .ToList();
-            int count = 1;
-            int maxCount = 0;
-            int maxOccurrencesNum = 0;
-
-            for (int i = 0; i < nums.Count-1; i++)
-            {
-                int currentNum = nums[i];
-
-                if (currentNum == nums[i + 1])
-=======
-            List<int> inputList = Console.ReadLine()
-                .Split()
+            List<int> numbers = Console.ReadLine()
+                .Split(' ')
                 .Select(int.Parse)
                 .ToList();
 
-            int count = 1;
-            int maxCount = 0;
-            int longestNumSec = 0;
-            for (int i = 0; i < inputList.Count - 1; i++)
+            List<int> result = new List<int>();
+            int bestStart = 0;
+            int bestLen = 1;
+            int currentLen = 1;
+            int currentStart = 0;
+            for (int i = 1; i < numbers.Count; i++)
             {
-                int currentNum = inputList[i];
-                if (currentNum == inputList[i + 1])
->>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
+                if (numbers[i] == numbers[i - 1])
                 {
-                    count++;
-                    if (count > maxCount)
+                    currentLen++;
+                    if (currentLen > bestLen)
                     {
-                        maxCount = count;
-<<<<<<< HEAD
-                        maxOccurrencesNum = currentNum;
-=======
-                        longestNumSec = inputList[i];
->>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
+                        bestLen = currentLen;
+                        bestStart = currentStart;
                     }
                 }
 
                 else
                 {
-                    count = 1;
+                    currentLen = 1;
+                    currentStart = i;
                 }
             }
 
-<<<<<<< HEAD
-            if(maxOccurrencesNum==0)
+            for (int i = bestStart; i < bestStart + bestLen; i++)
             {
-                Console.WriteLine(nums[0]);
-=======
-            if (longestNumSec == 0)
-            {
-                Console.WriteLine(inputList[0]);
->>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
+                Console.Write("{0} ", numbers[i]);
             }
-
-            else
-            {
-<<<<<<< HEAD
-                for (int i = 0; i < maxCount; i++)
-                {
-                    Console.Write("{0} ", maxOccurrencesNum);
-=======
-
-                for (int i = 0; i < maxCount; i++)
-                {
-                    Console.Write("{0} " ,longestNumSec);
->>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
-                }
-
-                Console.WriteLine();
-            }
+            Console.WriteLine();
         }
+
     }
 }
+

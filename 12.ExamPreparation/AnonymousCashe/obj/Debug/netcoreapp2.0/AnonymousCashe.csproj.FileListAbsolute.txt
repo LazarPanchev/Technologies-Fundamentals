@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\bin\Debug\netcoreapp2.0\AnonymousCashe.deps.json
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\bin\Debug\netcoreapp2.0\AnonymousCashe.runtimeconfig.json
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\bin\Debug\netcoreapp2.0\AnonymousCashe.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\bin\Debug\netcoreapp2.0\AnonymousCashe.dll
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\bin\Debug\netcoreapp2.0\AnonymousCashe.pdb
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\obj\Debug\netcoreapp2.0\AnonymousCashe.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\obj\Debug\netcoreapp2.0\AnonymousCashe.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\obj\Debug\netcoreapp2.0\AnonymousCashe.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\obj\Debug\netcoreapp2.0\AnonymousCashe.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\obj\Debug\netcoreapp2.0\AnonymousCashe.dll
+C:\Users\pc\source\repos\ExamPreparation\AnonymousCashe\obj\Debug\netcoreapp2.0\AnonymousCashe.pdb

@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\obj\Debug\netcoreapp2.0\MultiplyBigNUmbers.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\obj\Debug\netcoreapp2.0\MultiplyBigNUmbers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\obj\Debug\netcoreapp2.0\MultiplyBigNUmbers.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\obj\Debug\netcoreapp2.0\MultiplyBigNUmbers.AssemblyInfo.cs
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\bin\Debug\netcoreapp2.0\MultiplyBigNUmbers.deps.json
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\bin\Debug\netcoreapp2.0\MultiplyBigNUmbers.runtimeconfig.json
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\bin\Debug\netcoreapp2.0\MultiplyBigNUmbers.runtimeconfig.dev.json
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\bin\Debug\netcoreapp2.0\MultiplyBigNUmbers.dll
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\bin\Debug\netcoreapp2.0\MultiplyBigNUmbers.pdb
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\obj\Debug\netcoreapp2.0\MultiplyBigNUmbers.dll
+C:\Users\pc\source\repos\StringsAndTextProcessing\MultiplyBigNUmbers\obj\Debug\netcoreapp2.0\MultiplyBigNUmbers.pdb

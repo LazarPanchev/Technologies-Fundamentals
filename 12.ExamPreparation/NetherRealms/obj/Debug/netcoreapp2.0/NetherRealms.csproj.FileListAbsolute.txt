@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\bin\Debug\netcoreapp2.0\NetherRealms.deps.json
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\bin\Debug\netcoreapp2.0\NetherRealms.runtimeconfig.json
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\bin\Debug\netcoreapp2.0\NetherRealms.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\bin\Debug\netcoreapp2.0\NetherRealms.dll
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\bin\Debug\netcoreapp2.0\NetherRealms.pdb
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\obj\Debug\netcoreapp2.0\NetherRealms.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\obj\Debug\netcoreapp2.0\NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\obj\Debug\netcoreapp2.0\NetherRealms.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\obj\Debug\netcoreapp2.0\NetherRealms.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\obj\Debug\netcoreapp2.0\NetherRealms.dll
+C:\Users\pc\source\repos\ExamPreparation\NetherRealms\obj\Debug\netcoreapp2.0\NetherRealms.pdb

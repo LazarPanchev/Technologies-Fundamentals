@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp1.1\BigFactorial.deps.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp1.1\BigFactorial.runtimeconfig.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp1.1\BigFactorial.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp1.1\BigFactorial.dll
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp1.1\BigFactorial.pdb
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp1.1\BigFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp1.1\BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp1.1\BigFactorial.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp1.1\BigFactorial.dll
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp1.1\BigFactorial.pdb
