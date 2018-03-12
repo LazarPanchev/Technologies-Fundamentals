@@ -8,7 +8,6 @@
     {
         public static void Main()
         {
-<<<<<<< HEAD
             List<int> input =Console.ReadLine()
                 .Split(new char[] {' '}, StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
@@ -24,12 +23,6 @@
                 len[i] = 1 + len[left];
                 prev[i] = left;
             }
-
-
-
-
-
-=======
             List<int> numbers = Console.ReadLine()
                 .Split()
                 .Select(int.Parse)
@@ -72,7 +65,6 @@
             longesSubSeq.Reverse();
 
             Console.WriteLine(string.Join(" ", longesSubSeq));
->>>>>>> 84d03160caa7d23570767b816c70d87d2f40459c
         }
     }
 }
