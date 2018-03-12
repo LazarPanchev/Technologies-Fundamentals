@@ -1,0 +1,10 @@
+c:\users\lazar\source\repos\StringAndTextProcessing\SumBigNumbers\bin\Debug\netcoreapp1.1\SumBigNumbers.deps.json
+c:\users\lazar\source\repos\StringAndTextProcessing\SumBigNumbers\bin\Debug\netcoreapp1.1\SumBigNumbers.runtimeconfig.json
+c:\users\lazar\source\repos\StringAndTextProcessing\SumBigNumbers\bin\Debug\netcoreapp1.1\SumBigNumbers.runtimeconfig.dev.json
+c:\users\lazar\source\repos\StringAndTextProcessing\SumBigNumbers\bin\Debug\netcoreapp1.1\SumBigNumbers.dll
+c:\users\lazar\source\repos\StringAndTextProcessing\SumBigNumbers\bin\Debug\netcoreapp1.1\SumBigNumbers.pdb
+c:\users\lazar\source\repos\StringAndTextProcessing\SumBigNumbers\obj\Debug\netcoreapp1.1\SumBigNumbers.csprojResolveAssemblyReference.cache
+c:\users\lazar\source\repos\StringAndTextProcessing\SumBigNumbers\obj\Debug\netcoreapp1.1\SumBigNumbers.csproj.CoreCompileInputs.cache
+c:\users\lazar\source\repos\StringAndTextProcessing\SumBigNumbers\obj\Debug\netcoreapp1.1\SumBigNumbers.AssemblyInfo.cs
+c:\users\lazar\source\repos\StringAndTextProcessing\SumBigNumbers\obj\Debug\netcoreapp1.1\SumBigNumbers.dll
+c:\users\lazar\source\repos\StringAndTextProcessing\SumBigNumbers\obj\Debug\netcoreapp1.1\SumBigNumbers.pdb

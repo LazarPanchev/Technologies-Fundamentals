@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\RegularExpressions\MorseCodeUpgreaded\bin\Debug\netcoreapp1.1\MorseCodeUpgraded.deps.json
+C:\Users\Lazar\source\repos\RegularExpressions\MorseCodeUpgreaded\bin\Debug\netcoreapp1.1\MorseCodeUpgraded.runtimeconfig.json
+C:\Users\Lazar\source\repos\RegularExpressions\MorseCodeUpgreaded\bin\Debug\netcoreapp1.1\MorseCodeUpgraded.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\RegularExpressions\MorseCodeUpgreaded\bin\Debug\netcoreapp1.1\MorseCodeUpgraded.dll
+C:\Users\Lazar\source\repos\RegularExpressions\MorseCodeUpgreaded\bin\Debug\netcoreapp1.1\MorseCodeUpgraded.pdb
+C:\Users\Lazar\source\repos\RegularExpressions\MorseCodeUpgreaded\obj\Debug\netcoreapp1.1\MorseCodeUpgraded.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\RegularExpressions\MorseCodeUpgreaded\obj\Debug\netcoreapp1.1\MorseCodeUpgraded.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\RegularExpressions\MorseCodeUpgreaded\obj\Debug\netcoreapp1.1\MorseCodeUpgraded.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\RegularExpressions\MorseCodeUpgreaded\obj\Debug\netcoreapp1.1\MorseCodeUpgraded.dll
+C:\Users\Lazar\source\repos\RegularExpressions\MorseCodeUpgreaded\obj\Debug\netcoreapp1.1\MorseCodeUpgraded.pdb

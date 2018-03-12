@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\RegularExpressions\Weather\bin\Debug\netcoreapp2.0\Weather.deps.json
+C:\Users\pc\source\repos\RegularExpressions\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.json
+C:\Users\pc\source\repos\RegularExpressions\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.dev.json
+C:\Users\pc\source\repos\RegularExpressions\Weather\bin\Debug\netcoreapp2.0\Weather.dll
+C:\Users\pc\source\repos\RegularExpressions\Weather\bin\Debug\netcoreapp2.0\Weather.pdb
+C:\Users\pc\source\repos\RegularExpressions\Weather\obj\Debug\netcoreapp2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\RegularExpressions\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\RegularExpressions\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfo.cs
+C:\Users\pc\source\repos\RegularExpressions\Weather\obj\Debug\netcoreapp2.0\Weather.dll
+C:\Users\pc\source\repos\RegularExpressions\Weather\obj\Debug\netcoreapp2.0\Weather.pdb
+C:\Users\pc\source\repos\RegularExpressions\Weather\obj\Debug\netcoreapp2.0\Weather.csprojResolveAssemblyReference.cache

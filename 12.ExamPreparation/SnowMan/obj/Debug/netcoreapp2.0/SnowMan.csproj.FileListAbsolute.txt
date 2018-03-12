@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\bin\Debug\netcoreapp2.0\SnowMan.deps.json
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\bin\Debug\netcoreapp2.0\SnowMan.runtimeconfig.json
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\bin\Debug\netcoreapp2.0\SnowMan.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\bin\Debug\netcoreapp2.0\SnowMan.dll
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\bin\Debug\netcoreapp2.0\SnowMan.pdb
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\obj\Debug\netcoreapp2.0\SnowMan.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\obj\Debug\netcoreapp2.0\SnowMan.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\obj\Debug\netcoreapp2.0\SnowMan.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\obj\Debug\netcoreapp2.0\SnowMan.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\obj\Debug\netcoreapp2.0\SnowMan.dll
+C:\Users\pc\source\repos\ExamPreparation\SnowMan\obj\Debug\netcoreapp2.0\SnowMan.pdb

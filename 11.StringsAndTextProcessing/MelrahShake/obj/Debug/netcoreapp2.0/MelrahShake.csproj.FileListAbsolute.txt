@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\bin\Debug\netcoreapp2.0\MelrahShake.deps.json
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\bin\Debug\netcoreapp2.0\MelrahShake.runtimeconfig.json
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\bin\Debug\netcoreapp2.0\MelrahShake.runtimeconfig.dev.json
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\bin\Debug\netcoreapp2.0\MelrahShake.dll
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\bin\Debug\netcoreapp2.0\MelrahShake.pdb
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.AssemblyInfo.cs
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.dll
+C:\Users\pc\source\repos\StringsAndTextProcessing\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.pdb

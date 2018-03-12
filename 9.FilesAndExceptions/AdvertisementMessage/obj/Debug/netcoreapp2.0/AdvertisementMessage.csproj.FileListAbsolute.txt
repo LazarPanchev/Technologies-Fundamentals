@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\bin\Debug\netcoreapp2.0\AdvertisementMessage.deps.json
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\bin\Debug\netcoreapp2.0\AdvertisementMessage.runtimeconfig.json
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\bin\Debug\netcoreapp2.0\AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\bin\Debug\netcoreapp2.0\AdvertisementMessage.dll
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\bin\Debug\netcoreapp2.0\AdvertisementMessage.pdb
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\obj\Debug\netcoreapp2.0\AdvertisementMessage.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\obj\Debug\netcoreapp2.0\AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\obj\Debug\netcoreapp2.0\AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\obj\Debug\netcoreapp2.0\AdvertisementMessage.AssemblyInfo.cs
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\obj\Debug\netcoreapp2.0\AdvertisementMessage.dll
+C:\Users\pc\source\repos\FilesAndExceptions\AdvertisementMessage\obj\Debug\netcoreapp2.0\AdvertisementMessage.pdb

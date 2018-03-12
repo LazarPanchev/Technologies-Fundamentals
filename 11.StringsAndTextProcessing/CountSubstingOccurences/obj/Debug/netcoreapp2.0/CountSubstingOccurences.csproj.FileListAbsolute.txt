@@ -1,0 +1,10 @@
+c:\users\pc\source\repos\StringsAndTextProcessing\CountSubstingOccurences\bin\Debug\netcoreapp2.0\CountSubstingOccurences.deps.json
+c:\users\pc\source\repos\StringsAndTextProcessing\CountSubstingOccurences\bin\Debug\netcoreapp2.0\CountSubstingOccurences.runtimeconfig.json
+c:\users\pc\source\repos\StringsAndTextProcessing\CountSubstingOccurences\bin\Debug\netcoreapp2.0\CountSubstingOccurences.runtimeconfig.dev.json
+c:\users\pc\source\repos\StringsAndTextProcessing\CountSubstingOccurences\bin\Debug\netcoreapp2.0\CountSubstingOccurences.dll
+c:\users\pc\source\repos\StringsAndTextProcessing\CountSubstingOccurences\bin\Debug\netcoreapp2.0\CountSubstingOccurences.pdb
+c:\users\pc\source\repos\StringsAndTextProcessing\CountSubstingOccurences\obj\Debug\netcoreapp2.0\CountSubstingOccurences.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\StringsAndTextProcessing\CountSubstingOccurences\obj\Debug\netcoreapp2.0\CountSubstingOccurences.AssemblyInfoInputs.cache
+c:\users\pc\source\repos\StringsAndTextProcessing\CountSubstingOccurences\obj\Debug\netcoreapp2.0\CountSubstingOccurences.AssemblyInfo.cs
+c:\users\pc\source\repos\StringsAndTextProcessing\CountSubstingOccurences\obj\Debug\netcoreapp2.0\CountSubstingOccurences.dll
+c:\users\pc\source\repos\StringsAndTextProcessing\CountSubstingOccurences\obj\Debug\netcoreapp2.0\CountSubstingOccurences.pdb

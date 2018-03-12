@@ -1,0 +1,10 @@
+c:\users\lazar\source\repos\StringAndTextProcessing\CharacterMultiplayer\bin\Debug\netcoreapp1.1\CharacterMultiplayer.deps.json
+c:\users\lazar\source\repos\StringAndTextProcessing\CharacterMultiplayer\bin\Debug\netcoreapp1.1\CharacterMultiplayer.runtimeconfig.json
+c:\users\lazar\source\repos\StringAndTextProcessing\CharacterMultiplayer\bin\Debug\netcoreapp1.1\CharacterMultiplayer.runtimeconfig.dev.json
+c:\users\lazar\source\repos\StringAndTextProcessing\CharacterMultiplayer\bin\Debug\netcoreapp1.1\CharacterMultiplayer.dll
+c:\users\lazar\source\repos\StringAndTextProcessing\CharacterMultiplayer\bin\Debug\netcoreapp1.1\CharacterMultiplayer.pdb
+c:\users\lazar\source\repos\StringAndTextProcessing\CharacterMultiplayer\obj\Debug\netcoreapp1.1\CharacterMultiplayer.csproj.CoreCompileInputs.cache
+c:\users\lazar\source\repos\StringAndTextProcessing\CharacterMultiplayer\obj\Debug\netcoreapp1.1\CharacterMultiplayer.AssemblyInfo.cs
+c:\users\lazar\source\repos\StringAndTextProcessing\CharacterMultiplayer\obj\Debug\netcoreapp1.1\CharacterMultiplayer.dll
+c:\users\lazar\source\repos\StringAndTextProcessing\CharacterMultiplayer\obj\Debug\netcoreapp1.1\CharacterMultiplayer.pdb
+c:\users\lazar\source\repos\StringAndTextProcessing\CharacterMultiplayer\obj\Debug\netcoreapp1.1\CharacterMultiplayer.csprojResolveAssemblyReference.cache

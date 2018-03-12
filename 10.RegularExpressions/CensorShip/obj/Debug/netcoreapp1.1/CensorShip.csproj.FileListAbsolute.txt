@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\RegularExpressions\CensorShip\bin\Debug\netcoreapp1.1\CensorShip.deps.json
+C:\Users\Lazar\source\repos\RegularExpressions\CensorShip\bin\Debug\netcoreapp1.1\CensorShip.runtimeconfig.json
+C:\Users\Lazar\source\repos\RegularExpressions\CensorShip\bin\Debug\netcoreapp1.1\CensorShip.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\RegularExpressions\CensorShip\bin\Debug\netcoreapp1.1\CensorShip.dll
+C:\Users\Lazar\source\repos\RegularExpressions\CensorShip\bin\Debug\netcoreapp1.1\CensorShip.pdb
+C:\Users\Lazar\source\repos\RegularExpressions\CensorShip\obj\Debug\netcoreapp1.1\CensorShip.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\RegularExpressions\CensorShip\obj\Debug\netcoreapp1.1\CensorShip.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\RegularExpressions\CensorShip\obj\Debug\netcoreapp1.1\CensorShip.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\RegularExpressions\CensorShip\obj\Debug\netcoreapp1.1\CensorShip.dll
+C:\Users\Lazar\source\repos\RegularExpressions\CensorShip\obj\Debug\netcoreapp1.1\CensorShip.pdb

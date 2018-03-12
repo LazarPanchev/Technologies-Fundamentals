@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BookLibraryModification\bin\Debug\netcoreapp1.1\BookLibraryModification.deps.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BookLibraryModification\bin\Debug\netcoreapp1.1\BookLibraryModification.runtimeconfig.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BookLibraryModification\bin\Debug\netcoreapp1.1\BookLibraryModification.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BookLibraryModification\bin\Debug\netcoreapp1.1\BookLibraryModification.dll
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BookLibraryModification\bin\Debug\netcoreapp1.1\BookLibraryModification.pdb
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BookLibraryModification\obj\Debug\netcoreapp1.1\BookLibraryModification.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BookLibraryModification\obj\Debug\netcoreapp1.1\BookLibraryModification.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BookLibraryModification\obj\Debug\netcoreapp1.1\BookLibraryModification.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BookLibraryModification\obj\Debug\netcoreapp1.1\BookLibraryModification.dll
+C:\Users\Lazar\source\repos\ObjectsAndClasses\BookLibraryModification\obj\Debug\netcoreapp1.1\BookLibraryModification.pdb

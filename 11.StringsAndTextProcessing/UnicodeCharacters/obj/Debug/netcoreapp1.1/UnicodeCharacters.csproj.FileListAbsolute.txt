@@ -1,0 +1,10 @@
+c:\users\lazar\source\repos\StringAndTextProcessing\UnicodeCharacters\bin\Debug\netcoreapp1.1\UnicodeCharacters.deps.json
+c:\users\lazar\source\repos\StringAndTextProcessing\UnicodeCharacters\bin\Debug\netcoreapp1.1\UnicodeCharacters.runtimeconfig.json
+c:\users\lazar\source\repos\StringAndTextProcessing\UnicodeCharacters\bin\Debug\netcoreapp1.1\UnicodeCharacters.runtimeconfig.dev.json
+c:\users\lazar\source\repos\StringAndTextProcessing\UnicodeCharacters\bin\Debug\netcoreapp1.1\UnicodeCharacters.dll
+c:\users\lazar\source\repos\StringAndTextProcessing\UnicodeCharacters\bin\Debug\netcoreapp1.1\UnicodeCharacters.pdb
+c:\users\lazar\source\repos\StringAndTextProcessing\UnicodeCharacters\obj\Debug\netcoreapp1.1\UnicodeCharacters.csprojResolveAssemblyReference.cache
+c:\users\lazar\source\repos\StringAndTextProcessing\UnicodeCharacters\obj\Debug\netcoreapp1.1\UnicodeCharacters.csproj.CoreCompileInputs.cache
+c:\users\lazar\source\repos\StringAndTextProcessing\UnicodeCharacters\obj\Debug\netcoreapp1.1\UnicodeCharacters.AssemblyInfo.cs
+c:\users\lazar\source\repos\StringAndTextProcessing\UnicodeCharacters\obj\Debug\netcoreapp1.1\UnicodeCharacters.dll
+c:\users\lazar\source\repos\StringAndTextProcessing\UnicodeCharacters\obj\Debug\netcoreapp1.1\UnicodeCharacters.pdb

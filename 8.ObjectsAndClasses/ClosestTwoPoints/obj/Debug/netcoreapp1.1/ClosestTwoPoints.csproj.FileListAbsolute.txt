@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\netcoreapp1.1\ClosestTwoPoints.deps.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\netcoreapp1.1\ClosestTwoPoints.runtimeconfig.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\netcoreapp1.1\ClosestTwoPoints.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\netcoreapp1.1\ClosestTwoPoints.dll
+C:\Users\Lazar\source\repos\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\netcoreapp1.1\ClosestTwoPoints.pdb
+C:\Users\Lazar\source\repos\ObjectsAndClasses\ClosestTwoPoints\obj\Debug\netcoreapp1.1\ClosestTwoPoints.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\ObjectsAndClasses\ClosestTwoPoints\obj\Debug\netcoreapp1.1\ClosestTwoPoints.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ObjectsAndClasses\ClosestTwoPoints\obj\Debug\netcoreapp1.1\ClosestTwoPoints.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ObjectsAndClasses\ClosestTwoPoints\obj\Debug\netcoreapp1.1\ClosestTwoPoints.dll
+C:\Users\Lazar\source\repos\ObjectsAndClasses\ClosestTwoPoints\obj\Debug\netcoreapp1.1\ClosestTwoPoints.pdb

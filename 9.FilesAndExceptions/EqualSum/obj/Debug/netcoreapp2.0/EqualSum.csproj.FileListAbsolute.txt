@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\bin\Debug\netcoreapp2.0\EqualSum.deps.json
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\bin\Debug\netcoreapp2.0\EqualSum.runtimeconfig.json
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\bin\Debug\netcoreapp2.0\EqualSum.runtimeconfig.dev.json
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\bin\Debug\netcoreapp2.0\EqualSum.dll
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\bin\Debug\netcoreapp2.0\EqualSum.pdb
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\obj\Debug\netcoreapp2.0\EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\obj\Debug\netcoreapp2.0\EqualSum.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\obj\Debug\netcoreapp2.0\EqualSum.AssemblyInfo.cs
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\obj\Debug\netcoreapp2.0\EqualSum.dll
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\obj\Debug\netcoreapp2.0\EqualSum.pdb
+C:\Users\pc\source\repos\FilesAndExceptions\EqualSum\obj\Debug\netcoreapp2.0\EqualSum.csprojResolveAssemblyReference.cache

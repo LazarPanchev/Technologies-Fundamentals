@@ -1,0 +1,10 @@
+c:\users\lazar\source\repos\StringAndTextProcessing\MagicExchangeableWords\bin\Debug\netcoreapp1.1\MagicExchangeableWords.deps.json
+c:\users\lazar\source\repos\StringAndTextProcessing\MagicExchangeableWords\bin\Debug\netcoreapp1.1\MagicExchangeableWords.runtimeconfig.json
+c:\users\lazar\source\repos\StringAndTextProcessing\MagicExchangeableWords\bin\Debug\netcoreapp1.1\MagicExchangeableWords.runtimeconfig.dev.json
+c:\users\lazar\source\repos\StringAndTextProcessing\MagicExchangeableWords\bin\Debug\netcoreapp1.1\MagicExchangeableWords.dll
+c:\users\lazar\source\repos\StringAndTextProcessing\MagicExchangeableWords\bin\Debug\netcoreapp1.1\MagicExchangeableWords.pdb
+c:\users\lazar\source\repos\StringAndTextProcessing\MagicExchangeableWords\obj\Debug\netcoreapp1.1\MagicExchangeableWords.csprojResolveAssemblyReference.cache
+c:\users\lazar\source\repos\StringAndTextProcessing\MagicExchangeableWords\obj\Debug\netcoreapp1.1\MagicExchangeableWords.csproj.CoreCompileInputs.cache
+c:\users\lazar\source\repos\StringAndTextProcessing\MagicExchangeableWords\obj\Debug\netcoreapp1.1\MagicExchangeableWords.AssemblyInfo.cs
+c:\users\lazar\source\repos\StringAndTextProcessing\MagicExchangeableWords\obj\Debug\netcoreapp1.1\MagicExchangeableWords.dll
+c:\users\lazar\source\repos\StringAndTextProcessing\MagicExchangeableWords\obj\Debug\netcoreapp1.1\MagicExchangeableWords.pdb

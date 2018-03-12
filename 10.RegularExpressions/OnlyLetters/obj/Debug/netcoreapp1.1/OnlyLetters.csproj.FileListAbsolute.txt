@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\RegularExpressions\OnlyLetters\bin\Debug\netcoreapp1.1\OnlyLetters.deps.json
+C:\Users\Lazar\source\repos\RegularExpressions\OnlyLetters\bin\Debug\netcoreapp1.1\OnlyLetters.runtimeconfig.json
+C:\Users\Lazar\source\repos\RegularExpressions\OnlyLetters\bin\Debug\netcoreapp1.1\OnlyLetters.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\RegularExpressions\OnlyLetters\bin\Debug\netcoreapp1.1\OnlyLetters.dll
+C:\Users\Lazar\source\repos\RegularExpressions\OnlyLetters\bin\Debug\netcoreapp1.1\OnlyLetters.pdb
+C:\Users\Lazar\source\repos\RegularExpressions\OnlyLetters\obj\Debug\netcoreapp1.1\OnlyLetters.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\source\repos\RegularExpressions\OnlyLetters\obj\Debug\netcoreapp1.1\OnlyLetters.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\RegularExpressions\OnlyLetters\obj\Debug\netcoreapp1.1\OnlyLetters.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\RegularExpressions\OnlyLetters\obj\Debug\netcoreapp1.1\OnlyLetters.dll
+C:\Users\Lazar\source\repos\RegularExpressions\OnlyLetters\obj\Debug\netcoreapp1.1\OnlyLetters.pdb

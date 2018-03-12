@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\bin\Debug\netcoreapp2.0\CharityMarathon.deps.json
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\bin\Debug\netcoreapp2.0\CharityMarathon.runtimeconfig.json
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\bin\Debug\netcoreapp2.0\CharityMarathon.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\bin\Debug\netcoreapp2.0\CharityMarathon.dll
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\bin\Debug\netcoreapp2.0\CharityMarathon.pdb
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.dll
+C:\Users\pc\source\repos\ExamPreparation\CharityMarathon\obj\Debug\netcoreapp2.0\CharityMarathon.pdb

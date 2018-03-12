@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.0\SalesReport.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.0\SalesReport.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.0\SalesReport.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.0\SalesReport.AssemblyInfo.cs
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\bin\Debug\netcoreapp2.0\SalesReport.deps.json
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\bin\Debug\netcoreapp2.0\SalesReport.runtimeconfig.json
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\bin\Debug\netcoreapp2.0\SalesReport.runtimeconfig.dev.json
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\bin\Debug\netcoreapp2.0\SalesReport.dll
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\bin\Debug\netcoreapp2.0\SalesReport.pdb
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.0\SalesReport.dll
+C:\Users\pc\source\repos\ObjectsAndClasses\SalesReport\obj\Debug\netcoreapp2.0\SalesReport.pdb

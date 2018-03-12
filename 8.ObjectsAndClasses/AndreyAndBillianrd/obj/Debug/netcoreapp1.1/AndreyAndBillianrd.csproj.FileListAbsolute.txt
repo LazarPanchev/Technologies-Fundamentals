@@ -1,0 +1,10 @@
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AndreyAndBillianrd\bin\Debug\netcoreapp1.1\AndreyAndBillianrd.deps.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AndreyAndBillianrd\bin\Debug\netcoreapp1.1\AndreyAndBillianrd.runtimeconfig.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AndreyAndBillianrd\bin\Debug\netcoreapp1.1\AndreyAndBillianrd.runtimeconfig.dev.json
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AndreyAndBillianrd\bin\Debug\netcoreapp1.1\AndreyAndBillianrd.dll
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AndreyAndBillianrd\bin\Debug\netcoreapp1.1\AndreyAndBillianrd.pdb
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AndreyAndBillianrd\obj\Debug\netcoreapp1.1\AndreyAndBillianrd.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AndreyAndBillianrd\obj\Debug\netcoreapp1.1\AndreyAndBillianrd.AssemblyInfo.cs
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AndreyAndBillianrd\obj\Debug\netcoreapp1.1\AndreyAndBillianrd.dll
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AndreyAndBillianrd\obj\Debug\netcoreapp1.1\AndreyAndBillianrd.pdb
+C:\Users\Lazar\source\repos\ObjectsAndClasses\AndreyAndBillianrd\obj\Debug\netcoreapp1.1\AndreyAndBillianrd.csprojResolveAssemblyReference.cache
